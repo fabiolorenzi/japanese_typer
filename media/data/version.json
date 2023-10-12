@@ -2,6 +2,5 @@
     "version": "1.0.0",
     "author": "F. Lorenzi",
     "github_url": "https://github.com/fabiolorenzi",
-    "project_name": "Japanese Typer",
-    "project_description": "Japanese Typer is a desktop app designed to help foregneirs to learn Japanese typing and improving the knowledge of kanji. Developed with C++, CMake and wxWidgets"
+    "project_name": "Japanese Typer"
 }
