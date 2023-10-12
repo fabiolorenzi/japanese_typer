@@ -1,0 +1,215 @@
+{
+    "update_date": "2023-10-01",
+    "value": [
+        {
+            "id": 0,
+            "Kana": "くち",
+            "Katakana": false,
+            "Kanji": "口",
+            "Meaning": "mouth"
+        },
+        {
+            "id": 1,
+            "Kana": "め",
+            "Katakana": false,
+            "Kanji": "目",
+            "Meaning": "eye"
+        },
+        {
+            "id": 2,
+            "Kana": "みみ",
+            "Katakana": false,
+            "Kanji": "耳",
+            "Meaning": "ear"
+        },
+        {
+            "id": 3,
+            "Kana": "はな",
+            "Katakana": false,
+            "Kanji": "鼻",
+            "Meaning": "nose"
+        },
+        {
+            "id": 4,
+            "Kana": "かお",
+            "Katakana": false,
+            "Kanji": "顔",
+            "Meaning": "face"
+        },
+        {
+            "id": 5,
+            "Kana": "て",
+            "Katakana": false,
+            "Kanji": "手",
+            "Meaning": "hand"
+        },
+        {
+            "id": 6,
+            "Kana": "あし",
+            "Katakana": false,
+            "Kanji": "足",
+            "Meaning": "foot, leg"
+        },
+        {
+            "id": 7,
+            "Kana": "ゆび",
+            "Katakana": false,
+            "Kanji": "指",
+            "Meaning": "finger"
+        },
+        {
+            "id": 8,
+            "Kana": "あたま",
+            "Katakana": false,
+            "Kanji": "頭",
+            "Meaning": "head"
+        },
+        {
+            "id": 9,
+            "Kana": "は",
+            "Katakana": false,
+            "Kanji": "歯",
+            "Meaning": "teeth, tooth"
+        },
+        {
+            "id": 10,
+            "Kana": "",
+            "Katakana": false,
+            "Kanji": "",
+            "Meaning": "pillow"
+        },
+        {
+            "id": 11,
+            "Kana": "ベッド",
+            "Katakana": true,
+            "Kanji": "ベッド",
+            "Meaning": "bed"
+        },
+        {
+            "id": 12,
+            "Kana": "ふとん",
+            "Katakana": false,
+            "Kanji": "布団",
+            "Meaning": "futon"
+        },
+        {
+            "id": 13,
+            "Kana": "もうふ",
+            "Katakana": false,
+            "Kanji": "毛布",
+            "Meaning": "blanket"
+        },
+        {
+            "id": 14,
+            "Kana": "タオル",
+            "Katakana": true,
+            "Kanji": "タオル",
+            "Meaning": "towel"
+        },
+        {
+            "id": 15,
+            "Kana": "おふろ",
+            "Katakana": false,
+            "Kanji": "お風呂",
+            "Meaning": "bath"
+        },
+        {
+            "id": 16,
+            "Kana": "せっけん",
+            "Katakana": false,
+            "Kanji": "石けん",
+            "Meaning": "soap"
+        },
+        {
+            "id": 17,
+            "Kana": "はブラシ",
+            "Katakana": false,
+            "Kanji": "歯かがみ",
+            "Meaning": "toothbrush"
+        },
+        {
+            "id": 18,
+            "Kana": "かがみ",
+            "Katakana": false,
+            "Kanji": "鏡",
+            "Meaning": "mirror"
+        },
+        {
+            "id": 19,
+            "Kana": "まど",
+            "Katakana": false,
+            "Kanji": "窓",
+            "Meaning": "window"
+        },
+        {
+            "id": 20,
+            "Kana": "クレーム",
+            "Katakana": true,
+            "Kanji": "クレーム",
+            "Meaning": "complaint"
+        },
+        {
+            "id": 21,
+            "Kana": "サイン",
+            "Katakana": true,
+            "Kanji": "サイン",
+            "Meaning": "signature"
+        },
+        {
+            "id": 22,
+            "Kana": "ジョッキ",
+            "Katakana": true,
+            "Kanji": "ジョッキ",
+            "Meaning": "beer mag"
+        },
+        {
+            "id": 23,
+            "Kana": "ウイルス",
+            "Katakana": true,
+            "Kanji": "ウイルス",
+            "Meaning": "virus"
+        },
+        {
+            "id": 24,
+            "Kana": "ラジオ",
+            "Katakana": true,
+            "Kanji": "ラジオ",
+            "Meaning": "radio"
+        },
+        {
+            "id": 25,
+            "Kana": "シール",
+            "Katakana": true,
+            "Kanji": "シール",
+            "Meaning": "sticker"
+        },
+        {
+            "id": 26,
+            "Kana": "メイク",
+            "Katakana": true,
+            "Kanji": "メイク",
+            "Meaning": "make-up"
+        },
+        {
+            "id": 27,
+            "Kana": "フライドポテト",
+            "Katakana": true,
+            "Kanji": "フライドポテト",
+            "Meaning": "french fries"
+        },
+        {
+            "id": 28,
+            "Kana": "ドライバー",
+            "Katakana": true,
+            "Kanji": "ドライバー",
+            "Meaning": "screwdriver"
+        },
+        {
+            "id": 29,
+            "Kana": "ウオッカ",
+            "Katakana": true,
+            "Kanji": "ウオッカ",
+            "Meaning": "vodka"
+        }
+    ]
+}
