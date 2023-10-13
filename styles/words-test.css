@@ -25,6 +25,62 @@
     width: 100%;
 }
 
+.words_test_bottom_body {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.words_test_bottom_left,
+.words_test_bottom_right {
+    display: block;
+    width: 350px;
+}
+
+.words_test_single {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 10px auto;
+}
+
+.words_test_single_label {
+    display: block;
+    width: 150px;
+    text-align: center;
+}
+
+.words_test_single_label p {
+    color: #000000;
+    font-size: 11px;
+    font-weight: 400;
+    margin: 0;
+    width: 150px;
+}
+
+.words_test_single_label h1 {
+    color: #000000;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+    width: 150px;
+}
+
+.words_test_single input {
+    width: 100px;
+}
+
+.words_test_single h2 {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    width: 150px;
+    text-align: center;
+}
 
 @media (max-width: 992px) {
     .words_test {
