@@ -18,6 +18,18 @@ document.addEventListener("DOMContentLoaded", async function() {
             data.push(wordsJson.value[x]);
         };
     };
+
+    let randomSequence = [];
+    for (x = 0; x < 10; x++) {
+        let passed = false;
+        while (!passed) {
+            let temp = Math.floor(Math.random() * data.length);
+            if (randomSequence.length == 0 || !randomSequence.includes(temp)) {
+                randomSequence.push(temp);
+                passed = true;
+            };
+        };
+    };
     
     document.getElementById("footer_link").innerText = "Developed by " + versionJson.author;
     document.getElementById("footer_link").href = versionJson.github_url;
