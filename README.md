@@ -32,3 +32,6 @@ white: #ffffff
 dark_white: #cacaca
 dark_grey: #818181
 light_grey: #d8d8d8;
+red: #ff0000
+blue: #0004ff
+yellow: #ffe600

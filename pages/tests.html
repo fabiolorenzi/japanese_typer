@@ -22,7 +22,16 @@
                     <h1>Tests</h1>
                 </div>
                 <div class="tests_bottom">
-                    
+                    <div class="tests_bottom_line">
+                        <button onclick="wordsTest()" id="words_button">Run Words Test</button>
+                        <p>Set difficulty: </p>
+                        <input type="number" min="0" max="3" id="words_input" value="0">
+                    </div>
+                    <div class="tests_bottom_line">
+                        <button onclick="kanjisTest()" id="kanjis_button">Run Kanjis Test</button>
+                        <p>Set difficulty: </p>
+                        <input type="number" min="0" max="1" id="kanjis_input" value="0">
+                    </div>
                 </div>
             </div>
             <div class="page_footer">
