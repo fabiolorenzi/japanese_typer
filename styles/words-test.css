@@ -1,0 +1,44 @@
+.words_test {
+    display: block;
+    width: 100%;
+    min-height: calc(100vh - 140px);
+}
+
+.words_test_top {
+    display: block;
+    width: 100%;
+    margin: auto;
+}
+
+.words_test_top h1 {
+    display: block;
+    width: fit-content;
+    color: #000000;
+    font-size: 80px;
+    font-weight: 700;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+
+.words_test_bottom {
+    display: block;
+    width: 100%;
+}
+
+
+@media (max-width: 992px) {
+    .words_test {
+        min-height: 0;
+    }
+
+    .words_test_bottom {
+        padding-bottom: 100px;
+    }
+}
+
+@media (max-width: 768px) {
+    .words_test_top h1 {
+        font-size: 50px;
+        padding: 80px 0;
+    }
+}
