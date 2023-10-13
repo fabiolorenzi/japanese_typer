@@ -83,6 +83,29 @@
     text-align: center;
 }
 
+.words_test_button_line {
+    display: block;
+    width: 100%;
+}
+
+.words_test_button_line button {
+    display: block;
+    background-color: #ff0000;
+    color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin: 50px auto;
+    transition-duration: 0.3s;
+}
+
+.words_test_button_line button:hover {
+    color: #000000;
+    background-color: #ffe600;
+    cursor: pointer;
+    transition-duration: 0.3s;
+}
+
 @media (max-width: 992px) {
     .words_test {
         min-height: 0;

@@ -1,4 +1,4 @@
-function renderWords(words, randomSequence, difficulty) {
+function renderWords(words, difficulty) {
     document.getElementById("words_test_bottom").innerHTML = `
         <div class="words_test_bottom_body">
             <div class="words_test_bottom_left">
@@ -89,6 +89,41 @@ function renderWords(words, randomSequence, difficulty) {
     `;
 };
 
+function validateForm() {
+    let l_one = document.getElementById("word_label_one").innerText;
+    let i_one = document.getElementById("word_input_one").value;
+    let l_two = document.getElementById("word_label_two").innerText;
+    let i_two = document.getElementById("word_input_two").value;
+    let l_three = document.getElementById("word_label_three").innerText;
+    let i_three = document.getElementById("word_input_three").value;
+    let l_four = document.getElementById("word_label_four").innerText;
+    let i_four = document.getElementById("word_input_four").value;
+    let l_five = document.getElementById("word_label_five").innerText;
+    let i_five = document.getElementById("word_input_five").value;
+    let l_six = document.getElementById("word_label_six").innerText;
+    let i_six = document.getElementById("word_input_six").value;
+    let l_seven = document.getElementById("word_label_seven").innerText;
+    let i_seven = document.getElementById("word_input_seven").value;
+    let l_eight = document.getElementById("word_label_eight").innerText;
+    let i_eight = document.getElementById("word_input_eight").value;
+    let l_nine = document.getElementById("word_label_nine").innerText;
+    let i_nine = document.getElementById("word_input_nine").value;
+    let l_ten = document.getElementById("word_label_ten").innerText;
+    let i_ten = document.getElementById("word_input_ten").value;
+
+    if (
+        l_one == i_one && l_two == i_two && l_three == i_three &&
+        l_four == i_four && l_five == i_five && l_six == i_six &&
+        l_seven == i_seven && l_eight == i_eight && l_nine == i_nine &&
+        l_ten == i_ten
+    ) {
+        alert("Successful!");
+        window.location.replace("tests.html");
+    } else {
+        alert("The form are not correct. Please check again.");
+    };
+};
+
 document.addEventListener("DOMContentLoaded", async function() {
     const versionJson = await fetch("../media/data/version.json")
         .then(resp => resp.json())
@@ -122,7 +157,10 @@ document.addEventListener("DOMContentLoaded", async function() {
         };
     };
 
-    renderWords(data, randomSequence, difficulty);
+    let dataFiltered = [];
+    randomSequence.forEach(x => dataFiltered.push(data[x]));
+
+    renderWords(dataFiltered, difficulty);
     
     document.getElementById("footer_link").innerText = "Developed by " + versionJson.author;
     document.getElementById("footer_link").href = versionJson.github_url;
