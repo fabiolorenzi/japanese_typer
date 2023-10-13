@@ -8,11 +8,13 @@
                 {
                     "example_value": "一つ",
                     "example_reading": "ひとつ",
+                    "simple_reading": "ひと",
                     "meaning": "one thing"
                 },
                 {
                     "example_value": "一",
                     "example_reading": "いち",
+                    "simple_reading": "いち",
                     "meaning": "one"
                 }
             ],
@@ -25,6 +27,7 @@
                 {
                     "example_value": "二つ",
                     "example_reading": "ふたつ",
+                    "simple_reading": "ふた",
                     "meaning": "two things"
                 }
             ] 
@@ -36,6 +39,7 @@
                 {
                     "example_value": "二つ",
                     "example_reading": "ふたつ",
+                    "simple_reading": "ふた",
                     "meaning": "two things"
                 }
             ] 
@@ -47,6 +51,7 @@
                 {
                     "example_value": "二つ",
                     "example_reading": "ふたつ",
+                    "simple_reading": "ふた",
                     "meaning": "two things"
                 }
             ] 
@@ -58,6 +63,7 @@
                 {
                     "example_value": "二つ",
                     "example_reading": "ふたつ",
+                    "simple_reading": "ふた",
                     "meaning": "two things"
                 }
             ] 
@@ -69,11 +75,13 @@
                 {
                     "example_value": "一つ",
                     "example_reading": "ひとつ",
+                    "simple_reading": "ひと",
                     "meaning": "one thing"
                 },
                 {
                     "example_value": "一",
                     "example_reading": "いち",
+                    "simple_reading": "いち",
                     "meaning": "one"
                 }
             ],
@@ -86,11 +94,13 @@
                 {
                     "example_value": "一つ",
                     "example_reading": "ひとつ",
+                    "simple_reading": "ひと",
                     "meaning": "one thing"
                 },
                 {
                     "example_value": "一",
                     "example_reading": "いち",
+                    "simple_reading": "いち",
                     "meaning": "one"
                 }
             ],
@@ -103,11 +113,13 @@
                 {
                     "example_value": "一つ",
                     "example_reading": "ひとつ",
+                    "simple_reading": "ひと",
                     "meaning": "one thing"
                 },
                 {
                     "example_value": "一",
                     "example_reading": "いち",
+                    "simple_reading": "いち",
                     "meaning": "one"
                 }
             ],
@@ -120,11 +132,13 @@
                 {
                     "example_value": "一つ",
                     "example_reading": "ひとつ",
+                    "simple_reading": "ひと",
                     "meaning": "one thing"
                 },
                 {
                     "example_value": "一",
                     "example_reading": "いち",
+                    "simple_reading": "いち",
                     "meaning": "one"
                 }
             ],
@@ -137,11 +151,13 @@
                 {
                     "example_value": "一つ",
                     "example_reading": "ひとつ",
+                    "simple_reading": "ひと",
                     "meaning": "one thing"
                 },
                 {
                     "example_value": "一",
                     "example_reading": "いち",
+                    "simple_reading": "いち",
                     "meaning": "one"
                 }
             ],

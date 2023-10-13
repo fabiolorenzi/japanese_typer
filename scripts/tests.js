@@ -7,7 +7,7 @@ function wordsTest() {
 
 function kanjisTest() {
     difficulty = document.getElementById("kanjis_input").value;
-    difficulty >= 0 && difficulty < 1
+    difficulty >= 0 && difficulty <= 1
         ? window.location.replace(`kanjis-test.html?difficulty=${difficulty}`)
         : alert("The input value for the Kanjis Test has to be 0 (easy mode) or 1 (hard mode).");
 };

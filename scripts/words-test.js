@@ -120,7 +120,7 @@ function validateWordsForm() {
         alert("Successful!");
         window.location.replace("tests.html");
     } else {
-        alert("The form are not correct. Please check again.");
+        alert("The forms are not correct. Please check again.");
     };
 };
 
