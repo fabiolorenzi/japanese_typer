@@ -65,6 +65,11 @@
     transition-duration: 0.3s;
 }
 
+.page_footer_container a:hover {
+    color: #cacaca;
+    transition-duration: 0.3s;
+}
+
 .page_footer_container p {
     display: flex;
     align-items: center;
