@@ -1,0 +1,124 @@
+.kanjis_test {
+    display: block;
+    width: 100%;
+    min-height: calc(100vh - 140px);
+}
+
+.kanjis_test_top {
+    display: block;
+    width: 100%;
+    margin: auto;
+}
+
+.kanjis_test_top h1 {
+    display: block;
+    width: fit-content;
+    color: #000000;
+    font-size: 80px;
+    font-weight: 700;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+
+.kanjis_test_bottom {
+    display: block;
+    width: 100%;
+}
+
+.kanjis_test_bottom_body {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    align-items: flex-start;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.kanjis_test_bottom_left,
+.kanjis_test_bottom_right {
+    display: block;
+    width: 350px;
+}
+
+.kanjis_test_single {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 10px auto;
+}
+
+.kanjis_test_single_label {
+    display: block;
+    width: 150px;
+    text-align: center;
+}
+
+.kanjis_test_single_label p {
+    color: #000000;
+    font-size: 11px;
+    font-weight: 400;
+    margin: 0;
+    width: 150px;
+}
+
+.kanjis_test_single_label h1 {
+    color: #000000;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+    width: 150px;
+}
+
+.kanjis_test_single input {
+    width: 100px;
+}
+
+.kanjis_test_single h2 {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    width: 150px;
+    text-align: center;
+}
+
+.kanjis_test_button_line {
+    display: block;
+    width: 100%;
+}
+
+.kanjis_test_button_line button {
+    display: block;
+    background-color: #ff0000;
+    color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin: 50px auto;
+    transition-duration: 0.3s;
+}
+
+.kanjis_test_button_line button:hover {
+    color: #000000;
+    background-color: #ffe600;
+    cursor: pointer;
+    transition-duration: 0.3s;
+}
+
+@media (max-width: 992px) {
+    .kanjis_test {
+        min-height: 0;
+    }
+
+    .kanjis_test_bottom {
+        padding-bottom: 100px;
+    }
+}
+
+@media (max-width: 768px) {
+    .kanjis_test_top h1 {
+        font-size: 50px;
+        padding: 80px 0;
+    }
+}

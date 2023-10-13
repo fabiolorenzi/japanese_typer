@@ -1,5 +1,5 @@
-function renderWords(words, difficulty) {
-    document.getElementById("words_test_bottom").innerHTML = `
+function renderKanjis(words, difficulty) {
+    document.getElementById("kanjis_test_bottom").innerHTML = `
         <div class="words_test_bottom_body">
             <div class="words_test_bottom_left">
                 <div class="words_test_single">
@@ -89,7 +89,7 @@ function renderWords(words, difficulty) {
     `;
 };
 
-function validateWordsForm() {
+function validateKanjisForm() {
     let l_one = document.getElementById("word_label_one").innerText;
     let i_one = document.getElementById("word_input_one").value;
     let l_two = document.getElementById("word_label_two").innerText;
@@ -128,22 +128,13 @@ document.addEventListener("DOMContentLoaded", async function() {
     const versionJson = await fetch("../media/data/version.json")
         .then(resp => resp.json())
 
-    const wordsJson = await fetch("../media/data/words.json")
+    const kanjisJson = await fetch("../media/data/kanjis.json")
         .then(resp => resp.json());
 
     const urlParams = new URLSearchParams(window.location.search);
     const difficulty = urlParams.get("difficulty");
 
-    let data = [];
-    for (x = 0; x < wordsJson.value.length; x++) {
-        if (difficulty == 0) {
-            wordsJson.value[x].Katakana == false && data.push(wordsJson.value[x]);
-        } else if (difficulty == 1) {
-            wordsJson.value[x].Katakana && data.push(wordsJson.value[x]);
-        } else {
-            data.push(wordsJson.value[x]);
-        };
-    };
+    let data = kanjisJson.value;
 
     let randomSequence = [];
     for (x = 0; x < 10; x++) {
@@ -160,11 +151,11 @@ document.addEventListener("DOMContentLoaded", async function() {
     let dataFiltered = [];
     randomSequence.forEach(x => dataFiltered.push(data[x]));
 
-    renderWords(dataFiltered, difficulty);
+    renderKanjis(dataFiltered, difficulty);
     
     document.getElementById("footer_link").innerText = "Developed by " + versionJson.author;
     document.getElementById("footer_link").href = versionJson.github_url;
     document.getElementById("footer_version").innerText = "V" + versionJson.version;
 
-    document.getElementById("words_test_title").innerText = `Words Test - Level ${difficulty}`;
+    document.getElementById("kanjis_test_title").innerText = `Kanjis Test - Level ${difficulty}`;
 });

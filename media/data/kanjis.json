@@ -1,4 +1,151 @@
 {
     "update_date": "2023-10-01",
-    "value": []
+    "value": [
+        {
+            "id": 0,
+            "kanji": "一",
+            "values": [
+                {
+                    "example_value": "一つ",
+                    "example_reading": "ひとつ",
+                    "meaning": "one thing"
+                },
+                {
+                    "example_value": "一",
+                    "example_reading": "いち",
+                    "meaning": "one"
+                }
+            ],
+            "kanji_meaning": "one"
+        },
+        {
+            "id": 1,
+            "kanji": "二",
+            "values": [
+                {
+                    "example_value": "二つ",
+                    "example_reading": "ふたつ",
+                    "meaning": "two things"
+                }
+            ] 
+        },
+        {
+            "id": 1,
+            "kanji": "二",
+            "values": [
+                {
+                    "example_value": "二つ",
+                    "example_reading": "ふたつ",
+                    "meaning": "two things"
+                }
+            ] 
+        },
+        {
+            "id": 1,
+            "kanji": "二",
+            "values": [
+                {
+                    "example_value": "二つ",
+                    "example_reading": "ふたつ",
+                    "meaning": "two things"
+                }
+            ] 
+        },
+        {
+            "id": 1,
+            "kanji": "二",
+            "values": [
+                {
+                    "example_value": "二つ",
+                    "example_reading": "ふたつ",
+                    "meaning": "two things"
+                }
+            ] 
+        },
+        {
+            "id": 0,
+            "kanji": "一",
+            "values": [
+                {
+                    "example_value": "一つ",
+                    "example_reading": "ひとつ",
+                    "meaning": "one thing"
+                },
+                {
+                    "example_value": "一",
+                    "example_reading": "いち",
+                    "meaning": "one"
+                }
+            ],
+            "kanji_meaning": "one"
+        },
+        {
+            "id": 0,
+            "kanji": "一",
+            "values": [
+                {
+                    "example_value": "一つ",
+                    "example_reading": "ひとつ",
+                    "meaning": "one thing"
+                },
+                {
+                    "example_value": "一",
+                    "example_reading": "いち",
+                    "meaning": "one"
+                }
+            ],
+            "kanji_meaning": "one"
+        },
+        {
+            "id": 0,
+            "kanji": "一",
+            "values": [
+                {
+                    "example_value": "一つ",
+                    "example_reading": "ひとつ",
+                    "meaning": "one thing"
+                },
+                {
+                    "example_value": "一",
+                    "example_reading": "いち",
+                    "meaning": "one"
+                }
+            ],
+            "kanji_meaning": "one"
+        },
+        {
+            "id": 0,
+            "kanji": "一",
+            "values": [
+                {
+                    "example_value": "一つ",
+                    "example_reading": "ひとつ",
+                    "meaning": "one thing"
+                },
+                {
+                    "example_value": "一",
+                    "example_reading": "いち",
+                    "meaning": "one"
+                }
+            ],
+            "kanji_meaning": "one"
+        },
+        {
+            "id": 0,
+            "kanji": "一",
+            "values": [
+                {
+                    "example_value": "一つ",
+                    "example_reading": "ひとつ",
+                    "meaning": "one thing"
+                },
+                {
+                    "example_value": "一",
+                    "example_reading": "いち",
+                    "meaning": "one"
+                }
+            ],
+            "kanji_meaning": "one"
+        }
+    ]
 }
