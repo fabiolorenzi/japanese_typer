@@ -1084,7 +1084,7 @@
             "kana": "にほん",
             "katakana": false,
             "kanji": "日本",
-            "meaning": "japan"
+            "meaning": "Japan"
         },
         {
             "id": 156,
@@ -2002,6 +2002,286 @@
             "katakana": false,
             "kanji": "枝豆",
             "meaning": "green soybeans"
+        },
+        {
+            "id": 286,
+            "kana": "じしょ",
+            "katakana": false,
+            "kanji": "辞書",
+            "meaning": "dictionary"
+        },
+        {
+            "id": 287,
+            "kana": "おてあらい",
+            "katakana": false,
+            "kanji": "お手洗い",
+            "meaning": "restroom"
+        },
+        {
+            "id": 288,
+            "kana": "えんぴつ",
+            "katakana": false,
+            "kanji": "鉛筆",
+            "meaning": "pencil"
+        },
+        {
+            "id": 289,
+            "kana": "おんがく",
+            "katakana": false,
+            "kanji": "音楽",
+            "meaning": "music"
+        },
+        {
+            "id": 290,
+            "kana": "けいたいでんわ",
+            "katakana": false,
+            "kanji": "携帯電話",
+            "meaning": "cellular phone"
+        },
+        {
+            "id": 291,
+            "kana": "スマートフォン",
+            "katakana": true,
+            "kanji": "スマートフォン",
+            "meaning": "smartphone"
+        },
+        {
+            "id": 292,
+            "kana": "コーヒー",
+            "katakana": true,
+            "kanji": "コーヒー",
+            "meaning": "coffee"
+        },
+        {
+            "id": 293,
+            "kana": "たばこ",
+            "katakana": false,
+            "kanji": "たばこ",
+            "meaning": "cigarettes"
+        },
+        {
+            "id": 294,
+            "kana": "めがね",
+            "katakana": false,
+            "kanji": "めがね",
+            "meaning": "glasses"
+        },
+        {
+            "id": 295,
+            "kana": "パソコン",
+            "katakana": true,
+            "kanji": "パソコン",
+            "meaning": "pc"
+        },
+        {
+            "id": 296,
+            "kana": "ノートパソコン",
+            "katakana": true,
+            "kanji": "ノートパソコン",
+            "meaning": "laptop"
+        },
+        {
+            "id": 297,
+            "kana": "めいし",
+            "katakana": false,
+            "kanji": "名刺",
+            "meaning": "business card"
+        },
+        {
+            "id": 298,
+            "kana": "ごきぶり",
+            "katakana": false,
+            "kanji": "ごきぶり",
+            "meaning": "cockroach"
+        },
+        {
+            "id": 299,
+            "kana": "あり",
+            "katakana": false,
+            "kanji": "蟻",
+            "meaning": "ant"
+        },
+        {
+            "id": 300,
+            "kana": "はえ",
+            "katakana": false,
+            "kanji": "蝿",
+            "meaning": "housefly"
+        },
+        {
+            "id": 301,
+            "kana": "なにご",
+            "katakana": false,
+            "kanji": "何語",
+            "meaning": "what language?"
+        },
+        {
+            "id": 302,
+            "kana": "なにじん",
+            "katakana": false,
+            "kanji": "何人",
+            "meaning": "what nationality?"
+        },
+        {
+            "id": 303,
+            "kana": "ロサンゼルス",
+            "katakana": true,
+            "kanji": "ロサンゼルス",
+            "meaning": "Los Angeles"
+        },
+        {
+            "id": 304,
+            "kana": "ラスベガス",
+            "katakana": true,
+            "kanji": "ラスベガス",
+            "meaning": "Las Vegas"
+        },
+        {
+            "id": 305,
+            "kana": "チカゴ",
+            "katakana": true,
+            "kanji": "チかご",
+            "meaning": "Chicago"
+        },
+        {
+            "id": 306,
+            "kana": "カリフォルニア",
+            "katakana": true,
+            "kanji": "カリフォルニア",
+            "meaning": "California"
+        },
+        {
+            "id": 307,
+            "kana": "カナダ",
+            "katakana": true,
+            "kanji": "カナダ",
+            "meaning": "Canada"
+        },
+        {
+            "id": 308,
+            "kana": "かんこう",
+            "katakana": false,
+            "kanji": "かんこう",
+            "meaning": "Korea"
+        },
+        {
+            "id": 309,
+            "kana": "ちゅうごく",
+            "katakana": false,
+            "kanji": "中国",
+            "meaning": "China"
+        },
+        {
+            "id": 310,
+            "kana": "ぎんこう",
+            "katakana": false,
+            "kanji": "銀行",
+            "meaning": "bank"
+        },
+        {
+            "id": 311,
+            "kana": "ふく",
+            "katakana": false,
+            "kanji": "服",
+            "meaning": "clothing, clothes"
+        },
+        {
+            "id": 312,
+            "kana": "～し",
+            "katakana": false,
+            "kanji": "～市",
+            "meaning": "~city"
+        },
+        {
+            "id": 313,
+            "kana": "～しゅう",
+            "katakana": false,
+            "kanji": "～州",
+            "meaning": "~state"
+        },
+        {
+            "id": 314,
+            "kana": "~けん",
+            "katakana": false,
+            "kanji": "～県",
+            "meaning": "~prefecture"
+        },
+        {
+            "id": 315,
+            "kana": "～ご",
+            "katakana": false,
+            "kanji": "～語",
+            "meaning": "~language"
+        },
+        {
+            "id": 316,
+            "kana": "~じん",
+            "katakana": false,
+            "kanji": "～人",
+            "meaning": "~nationality"
+        },
+        {
+            "id": 317,
+            "kana": "いまから",
+            "katakana": false,
+            "kanji": "今から",
+            "meaning": "from now"
+        },
+        {
+            "id": 318,
+            "kana": "なんの",
+            "katakana": false,
+            "kanji": "何の",
+            "meaning": "what? which? what kind of?"
+        },
+        {
+            "id": 319,
+            "kana": "なんじ",
+            "katakana": false,
+            "kanji": "何時",
+            "meaning": "what time?"
+        },
+        {
+            "id": 320,
+            "kana": "はん",
+            "katakana": false,
+            "kanji": "半",
+            "meaning": "half past (:30)"
+        },
+        {
+            "id": 321,
+            "kana": "ごぜん",
+            "katakana": false,
+            "kanji": "午前",
+            "meaning": "am"
+        },
+        {
+            "id": 322,
+            "kana": "ごご",
+            "katakana": false,
+            "kanji": "午後",
+            "meaning": "pm"
+        },
+        {
+            "id": 323,
+            "kana": "じゅぎょう",
+            "katakana": false,
+            "kanji": "授業",
+            "meaning": "class"
+        },
+        {
+            "id": 324,
+            "kana": "アルバイト",
+            "katakana": true,
+            "kanji": "アルバイト",
+            "meaning": "part-time job"
+        },
+        {
+            "id": 325,
+            "kana": "やすみ",
+            "katakana": false,
+            "kanji": "休み",
+            "meaning": "day off, break"
         }
     ]
 }
