@@ -651,6 +651,951 @@
             "katakana": false,
             "kanji": "透明",
             "meaning": "clear, transparent"
+        },
+        {
+            "id": 94,
+            "kana": "すき",
+            "katakana": false,
+            "kanji": "好き",
+            "meaning": "like"
+        },
+        {
+            "id": 95,
+            "kana": "きらい",
+            "katakana": false,
+            "kanji": "嫌い",
+            "meaning": "dislike"
+        },
+        {
+            "id": 96,
+            "kana": "かいもの",
+            "katakana": false,
+            "kanji": "買い物",
+            "meaning": "shopping"
+        },
+        {
+            "id": 97,
+            "kana": "かんこう",
+            "katakana": false,
+            "kanji": "観光",
+            "meaning": "sightseen"
+        },
+        {
+            "id": 98,
+            "kana": "りょこう",
+            "katakana": false,
+            "kanji": "旅行",
+            "meaning": "travel"
+        },
+        {
+            "id": 99,
+            "kana": "しゅくだい",
+            "katakana": false,
+            "kanji": "宿題",
+            "meaning": "homework"
+        },
+        {
+            "id": 100,
+            "kana": "しごと",
+            "katakana": false,
+            "kanji": "仕事",
+            "meaning": "job"
+        },
+        {
+            "id": 101,
+            "kana": "チキン",
+            "katakana": true,
+            "kanji": "チキン",
+            "meaning": "chicken"
+        },
+        {
+            "id": 102,
+            "kana": "にほんご",
+            "katakana": false,
+            "kanji": "日本語",
+            "meaning": "japanese language"
+        },
+        {
+            "id": 103,
+            "kana": "じゃあ",
+            "katakana": false,
+            "kanji": "じゃあ",
+            "meaning": "well then"
+        },
+        {
+            "id": 104,
+            "kana": "コップ",
+            "katakana": true,
+            "kanji": "コップ",
+            "meaning": "cup, glass"
+        },
+        {
+            "id": 105,
+            "kana": "スプーン",
+            "katakana": true,
+            "kanji": "スプーン",
+            "meaning": "spoon"
+        },
+        {
+            "id": 106,
+            "kana": "フォー",
+            "katakana": true,
+            "kanji": "フォーク",
+            "meaning": "fork"
+        },
+        {
+            "id": 107,
+            "kana": "おさら",
+            "katakana": false,
+            "kanji": "お皿",
+            "meaning": "plate"
+        },
+        {
+            "id": 108,
+            "kana": "おちゃわん",
+            "katakana": false,
+            "kanji": "お茶わん",
+            "meaning": "bowl"
+        },
+        {
+            "id": 109,
+            "kana": "おはし",
+            "katakana": false,
+            "kanji": "お箸",
+            "meaning": "chopsticks"
+        },
+        {
+            "id": 110,
+            "kana": "れいぞうこ",
+            "katakana": false,
+            "kanji": "冷蔵庫",
+            "meaning": "refrigerator"
+        },
+        {
+            "id": 111,
+            "kana": "とけい",
+            "katakana": false,
+            "kanji": "時計",
+            "meaning": "clock"
+        },
+        {
+            "id": 112,
+            "kana": "テレビ",
+            "katakana": true,
+            "kanji": "テレビ",
+            "meaning": "television"
+        },
+        {
+            "id": 113,
+            "kana": "ズボン",
+            "katakana": true,
+            "kanji": "ズボン",
+            "meaning": "pants"
+        },
+        {
+            "id": 114,
+            "kana": "くつ",
+            "katakana": false,
+            "kanji": "靴",
+            "meaning": "shoes"
+        },
+        {
+            "id": 115,
+            "kana": "しんぶん",
+            "katakana": false,
+            "kanji": "新聞",
+            "meaning": "newspaper"
+        },
+        {
+            "id": 116,
+            "kana": "えいが",
+            "katakana": false,
+            "kanji": "映画",
+            "meaning": "movie"
+        },
+        {
+            "id": 117,
+            "kana": "はいゆう",
+            "katakana": false,
+            "kanji": "俳優",
+            "meaning": "actor"
+        },
+        {
+            "id": 118,
+            "kana": "も",
+            "katakana": false,
+            "kanji": "も",
+            "meaning": "also, too"
+        },
+        {
+            "id": 119,
+            "kana": "バスケットボール",
+            "katakana": true,
+            "kanji": "バスケットボール",
+            "meaning": "basketball"
+        },
+        {
+            "id": 120,
+            "kana": "キャンブル",
+            "katakana": true,
+            "kanji": "キャンブル",
+            "meaning": "gambling"
+        },
+        {
+            "id": 121,
+            "kana": "サッカー",
+            "katakana": true,
+            "kanji": "サッカー",
+            "meaning": "soccer"
+        },
+        {
+            "id": 122,
+            "kana": "いちご",
+            "katakana": false,
+            "kanji": "苺",
+            "meaning": "strawberry"
+        },
+        {
+            "id": 123,
+            "kana": "みかん",
+            "katakana": false,
+            "kanji": "みかん",
+            "meaning": "orange"
+        },
+        {
+            "id": 124,
+            "kana": "りんご",
+            "katakana": false,
+            "kanji": "林檎",
+            "meaning": "apple"
+        },
+        {
+            "id": 125,
+            "kana": "バナナ",
+            "katakana": true,
+            "kanji": "バナナ",
+            "meaning": "banana"
+        },
+        {
+            "id": 126,
+            "kana": "すいか",
+            "katakana": false,
+            "kanji": "西瓜",
+            "meaning": "watermelon"
+        },
+        {
+            "id": 127,
+            "kana": "レモン",
+            "katakana": true,
+            "kanji": "レモン",
+            "meaning": "lemon"
+        },
+        {
+            "id": 128,
+            "kana": "もも",
+            "katakana": false,
+            "kanji": "桃",
+            "meaning": "peach"
+        },
+        {
+            "id": 129,
+            "kana": "ぶどう",
+            "katakana": false,
+            "kanji": "ぶどう",
+            "meaning": "grapes"
+        },
+        {
+            "id": 130,
+            "kana": "ほしい",
+            "katakana": false,
+            "kanji": "欲しい",
+            "meaning": "want"
+        },
+        {
+            "id": 131,
+            "kana": "ドル",
+            "katakana": true,
+            "kanji": "ドル",
+            "meaning": "dollar"
+        },
+        {
+            "id": 132,
+            "kana": "えん",
+            "katakana": false,
+            "kanji": "円",
+            "meaning": "yen"
+        },
+        {
+            "id": 133,
+            "kana": "インターネット",
+            "katakana": true,
+            "kanji": "インターネット",
+            "meaning": "internet"
+        },
+        {
+            "id": 134,
+            "kana": "おかね",
+            "katakana": false,
+            "kanji": "お金",
+            "meaning": "money"
+        },
+        {
+            "id": 135,
+            "kana": "もちろん",
+            "katakana": false,
+            "kanji": "もちろん",
+            "meaning": "of course"
+        },
+        {
+            "id": 136,
+            "kana": "コーラ",
+            "katakana": true,
+            "kanji": "コーラ",
+            "meaning": "coke"
+        },
+        {
+            "id": 137,
+            "kana": "みず",
+            "katakana": false,
+            "kanji": "水",
+            "meaning": "water"
+        },
+        {
+            "id": 138,
+            "kana": "のみもの",
+            "katakana": false,
+            "kanji": "飲み物",
+            "meaning": "a drink"
+        },
+        {
+            "id": 139,
+            "kana": "ひこうき",
+            "katakana": false,
+            "kanji": "飛行機",
+            "meaning": "airplane"
+        },
+        {
+            "id": 140,
+            "kana": "でんしゃ",
+            "katakana": false,
+            "kanji": "電車",
+            "meaning": "train"
+        },
+        {
+            "id": 141,
+            "kana": "バス",
+            "katakana": true,
+            "kanji": "バス",
+            "meaning": "bus"
+        },
+        {
+            "id": 142,
+            "kana": "ふね",
+            "katakana": false,
+            "kanji": "船",
+            "meaning": "ship, boat"
+        },
+        {
+            "id": 143,
+            "kana": "さんりんしゃ",
+            "katakana": false,
+            "kanji": "三輪車",
+            "meaning": "tricycle"
+        },
+        {
+            "id": 144,
+            "kana": "しょうぼうしゃ",
+            "katakana": false,
+            "kanji": "消防車",
+            "meaning": "fire truck"
+        },
+        {
+            "id": 145,
+            "kana": "じてんしゃ",
+            "katakana": false,
+            "kanji": "自転車",
+            "meaning": "bicycle"
+        },
+        {
+            "id": 146,
+            "kana": "しんかんせん",
+            "katakana": false,
+            "kanji": "新幹線",
+            "meaning": "bullet train"
+        },
+        {
+            "id": 147,
+            "kana": "パトカー",
+            "katakana": true,
+            "kanji": "パトカー",
+            "meaning": "patrol car"
+        },
+        {
+            "id": 148,
+            "kana": "どこ",
+            "katakana": false,
+            "kanji": "どこ",
+            "meaning": "where?"
+        },
+        {
+            "id": 149,
+            "kana": "ここ",
+            "katakana": false,
+            "kanji": "ここ",
+            "meaning": "here"
+        },
+        {
+            "id": 150,
+            "kana": "そこ",
+            "katakana": false,
+            "kanji": "そこ",
+            "meaning": "there"
+        },
+        {
+            "id": 151,
+            "kana": "あそこ",
+            "katakana": false,
+            "kanji": "あそこ",
+            "meaning": "over there"
+        },
+        {
+            "id": 152,
+            "kana": "そと",
+            "katakana": false,
+            "kanji": "外",
+            "meaning": "outside"
+        },
+        {
+            "id": 153,
+            "kana": "なか",
+            "katakana": false,
+            "kanji": "中",
+            "meaning": "inside"
+        },
+        {
+            "id": 154,
+            "kana": "レストラン",
+            "katakana": true,
+            "kanji": "レストラン",
+            "meaning": "restaurant"
+        },
+        {
+            "id": 155,
+            "kana": "にほん",
+            "katakana": false,
+            "kanji": "日本",
+            "meaning": "japan"
+        },
+        {
+            "id": 156,
+            "kana": "アメリカ",
+            "katakana": true,
+            "kanji": "アメリカ",
+            "meaning": "america"
+        },
+        {
+            "id": 157,
+            "kana": "でも",
+            "katakana": false,
+            "kanji": "でも",
+            "meaning": "but"
+        },
+        {
+            "id": 158,
+            "kana": "おちゃ",
+            "katakana": false,
+            "kanji": "お茶",
+            "meaning": "tea"
+        },
+        {
+            "id": 159,
+            "kana": "りょくちゃ",
+            "katakana": false,
+            "kanji": "緑茶",
+            "meaning": "green tea (leaves)"
+        },
+        {
+            "id": 160,
+            "kana": "まっちゃ",
+            "katakana": false,
+            "kanji": "抹茶",
+            "meaning": "green tea (powdered)"
+        },
+        {
+            "id": 161,
+            "kana": "ほうじちゃ",
+            "katakana": false,
+            "kanji": "ほうじ茶",
+            "meaning": "green tea (roasted)"
+        },
+        {
+            "id": 162,
+            "kana": "こうちゃ",
+            "katakana": false,
+            "kanji": "紅茶",
+            "meaning": "black tea"
+        },
+        {
+            "id": 163,
+            "kana": "ウーロンちゃ",
+            "katakana": true,
+            "kanji": "ウーロン茶",
+            "meaning": "oolong tea"
+        },
+        {
+            "id": 164,
+            "kana": "むぎちゃ",
+            "katakana": false,
+            "kanji": "麦茶",
+            "meaning": "wheat tea"
+        },
+        {
+            "id": 165,
+            "kana": "まぐら",
+            "katakana": false,
+            "kanji": "鮪",
+            "meaning": "tuna"
+        },
+        {
+            "id": 166,
+            "kana": "えび",
+            "katakana": false,
+            "kanji": "海老",
+            "meaning": "shrimp"
+        },
+        {
+            "id": 167,
+            "kana": "ひらめ",
+            "katakana": false,
+            "kanji": "平目",
+            "meaning": "halibut"
+        },
+        {
+            "id": 168,
+            "kana": "いか",
+            "katakana": false,
+            "kanji": "いか",
+            "meaning": "squid"
+        },
+        {
+            "id": 169,
+            "kana": "きんぎょ",
+            "katakana": false,
+            "kanji": "金魚",
+            "meaning": "goldfish"
+        },
+        {
+            "id": 170,
+            "kana": "かめ",
+            "katakana": false,
+            "kanji": "亀",
+            "meaning": "turtle"
+        },
+        {
+            "id": 171,
+            "kana": "かえる",
+            "katakana": false,
+            "kanji": "蛙",
+            "meaning": "frog"
+        },
+        {
+            "id": 172,
+            "kana": "ぶた",
+            "katakana": false,
+            "kanji": "豚",
+            "meaning": "pig"
+        },
+        {
+            "id": 173,
+            "kana": "はと",
+            "katakana": false,
+            "kanji": "鴿",
+            "meaning": "pigeon, dove"
+        },
+        {
+            "id": 174,
+            "kana": "あひる",
+            "katakana": false,
+            "kanji": "あひる",
+            "meaning": "duck"
+        },
+        {
+            "id": 175,
+            "kana": "かに",
+            "katakana": false,
+            "kanji": "蟹",
+            "meaning": "crab"
+        },
+        {
+            "id": 176,
+            "kana": "へび",
+            "katakana": false,
+            "kanji": "蛇",
+            "meaning": "snake"
+        },
+        {
+            "id": 177,
+            "kana": "ロブスタ",
+            "katakana": true,
+            "kanji": "ロブスタ",
+            "meaning": "lobster"
+        },
+        {
+            "id": 178,
+            "kana": "とがげ",
+            "katakana": false,
+            "kanji": "とかげ",
+            "meaning": "lizard"
+        },
+        {
+            "id": 179,
+            "kana": "さかな",
+            "katakana": false,
+            "kanji": "魚",
+            "meaning": "fish"
+        },
+        {
+            "id": 180,
+            "kana": "きょうりゅう",
+            "katakana": false,
+            "kanji": "恐竜",
+            "meaning": "dinosaur"
+        },
+        {
+            "id": 181,
+            "kana": "いつ",
+            "katakana": false,
+            "kanji": "いつ",
+            "meaning": "when"
+        },
+        {
+            "id": 182,
+            "kana": "なんにち",
+            "katakana": false,
+            "kanji": "何日",
+            "meaning": "what day of the month?"
+        },
+        {
+            "id": 183,
+            "kana": "なんがつ",
+            "katakana": false,
+            "kanji": "何月",
+            "meaning": "what month?"
+        },
+        {
+            "id": 184,
+            "kana": "きょう",
+            "katakana": false,
+            "kanji": "今日",
+            "meaning": "today"
+        },
+        {
+            "id": 185,
+            "kana": "あした",
+            "katakana": false,
+            "kanji": "明日",
+            "meaning": "tomorrow"
+        },
+        {
+            "id": 186,
+            "kana": "きのう",
+            "katakana": false,
+            "kanji": "昨日",
+            "meaning": "yesterday"
+        },
+        {
+            "id": 187,
+            "kana": "たんじょうび",
+            "katakana": false,
+            "kanji": "誕生日",
+            "meaning": "birthday"
+        },
+        {
+            "id": 188,
+            "kana": "クリスマス",
+            "katakana": true,
+            "kanji": "クリスマス",
+            "meaning": "christman"
+        },
+        {
+            "id": 189,
+            "kana": "どくりつきねんび",
+            "katakana": false,
+            "kanji": "独立記念日",
+            "meaning": "independence day"
+        },
+        {
+            "id": 190,
+            "kana": "プレゼント",
+            "katakana": true,
+            "kanji": "プレゼント",
+            "meaning": "present, gift"
+        },
+        {
+            "id": 191,
+            "kana": "ゴールデンウイーク",
+            "katakana": true,
+            "kanji": "ドールでぬいー区",
+            "meaning": "golden week"
+        },
+        {
+            "id": 192,
+            "kana": "けんぽうきねんび",
+            "katakana": false,
+            "kanji": "憲法記念日",
+            "meaning": "constitution day"
+        },
+        {
+            "id": 193,
+            "kana": "こどものび",
+            "katakana": false,
+            "kanji": "子供の日",
+            "meaning": "children's day"
+        },
+        {
+            "id": 194,
+            "kana": "ぶんかのひ",
+            "katakana": false,
+            "kanji": "文化の日",
+            "meaning": "culture's day"
+        },
+        {
+            "id": 195,
+            "kana": "たいいくのひ",
+            "katakana": false,
+            "kanji": "体育の日",
+            "meaning": "sport's day"
+        },
+        {
+            "id": 195,
+            "kana": "たまご",
+            "katakana": false,
+            "kanji": "卵",
+            "meaning": "egg"
+        },
+        {
+            "id": 196,
+            "kana": "ごはん",
+            "katakana": false,
+            "kanji": "ご飯",
+            "meaning": "boiled rice"
+        },
+        {
+            "id": 197,
+            "kana": "ミリク",
+            "katakana": true,
+            "kanji": "ミリク",
+            "meaning": "milk"
+        },
+        {
+            "id": 198,
+            "kana": "ジュース",
+            "katakana": true,
+            "kanji": "ジュース",
+            "meaning": "juice"
+        },
+        {
+            "id": 199,
+            "kana": "くり",
+            "katakana": false,
+            "kanji": "栗",
+            "meaning": "chestnut"
+        },
+        {
+            "id": 200,
+            "kana": "パン",
+            "katakana": true,
+            "kanji": "パン",
+            "meaning": "bread"
+        },
+        {
+            "id": 201,
+            "kana": "ケキ",
+            "katakana": true,
+            "kanji": "ケキ",
+            "meaning": "cake"
+        },
+        {
+            "id": 202,
+            "kana": "アイスークリム",
+            "katakana": true,
+            "kanji": "アイスークリム",
+            "meaning": "ice cream"
+        },
+        {
+            "id": 203,
+            "kana": "にんじん",
+            "katakana": false,
+            "kanji": "人参",
+            "meaning": "carrot"
+        },
+        {
+            "id": 204,
+            "kana": "トマト",
+            "katakana": true,
+            "kanji": "トマト",
+            "meaning": "tomato"
+        },
+        {
+            "id": 205,
+            "kana": "だいこん",
+            "katakana": false,
+            "kanji": "大根",
+            "meaning": "radish"
+        },
+        {
+            "id": 206,
+            "kana": "たまねぎ",
+            "katakana": false,
+            "kanji": "玉ねぎ",
+            "meaning": "onion"
+        },
+        {
+            "id": 207,
+            "kana": "こしょう",
+            "katakana": false,
+            "kanji": "こしょう",
+            "meaning": "pepper"
+        },
+        {
+            "id": 208,
+            "kana": "しお",
+            "katakana": false,
+            "kanji": "塩",
+            "meaning": "salt"
+        },
+        {
+            "id": 209,
+            "kana": "にく",
+            "katakana": false,
+            "kanji": "肉",
+            "meaning": "meat"
+        },
+        {
+            "id": 210,
+            "kana": "ポタト",
+            "katakana": true,
+            "kanji": "ポタト",
+            "meaning": "potato"
+        },
+        {
+            "id": 211,
+            "kana": "なんようび",
+            "katakana": false,
+            "kanji": "何曜日",
+            "meaning": "what day of the week?"
+        },
+        {
+            "id": 212,
+            "kana": "なんねん",
+            "katakana": false,
+            "kanji": "何年",
+            "meaning": "what year?"
+        },
+        {
+            "id": 213,
+            "kana": "いま",
+            "katakana": false,
+            "kanji": "今",
+            "meaning": "now"
+        },
+        {
+            "id": 214,
+            "kana": "おととい",
+            "katakana": false,
+            "kanji": "一昨日",
+            "meaning": "day before yesterday"
+        },
+        {
+            "id": 215,
+            "kana": "あさって",
+            "katakana": false,
+            "kanji": "明後日",
+            "meaning": "day after tomorrow"
+        },
+        {
+            "id": 216,
+            "kana": "せんしゅう",
+            "katakana": false,
+            "kanji": "先週",
+            "meaning": "last week"
+        },
+        {
+            "id": 217,
+            "kana": "こんしゅう",
+            "katakana": false,
+            "kanji": "今週",
+            "meaning": "this week"
+        },
+        {
+            "id": 218,
+            "kana": "らいしゅう",
+            "katakana": false,
+            "kanji": "来週",
+            "meaning": "next week"
+        },
+        {
+            "id": 219,
+            "kana": "せんげつ",
+            "katakana": false,
+            "kanji": "先月",
+            "meaning": "last month"
+        },
+        {
+            "id": 220,
+            "kana": "こんげつ",
+            "katakana": false,
+            "kanji": "今月",
+            "meaning": "this month"
+        },
+        {
+            "id": 221,
+            "kana": "らいげつ",
+            "katakana": false,
+            "kanji": "来月",
+            "meaning": "next month"
+        },
+        {
+            "id": 222,
+            "kana": "きょねん",
+            "katakana": false,
+            "kanji": "去年",
+            "meaning": "last year"
+        },
+        {
+            "id": 223,
+            "kana": "ことし",
+            "katakana": false,
+            "kanji": "今年",
+            "meaning": "this year"
+        },
+        {
+            "id": 224,
+            "kana": "らいねん",
+            "katakana": false,
+            "kanji": "来年",
+            "meaning": "next year"
+        },
+        {
+            "id": 225,
+            "kana": "せいねんがっぴ",
+            "katakana": false,
+            "kanji": "生年月日",
+            "meaning": "date of birth"
+        },
+        {
+            "id": 226,
+            "kana": "がんたん",
+            "katakana": false,
+            "kanji": "元旦",
+            "meaning": "new year's day"
+        },
+        {
+            "id": 227,
+            "kana": "パーティー",
+            "katakana": false,
+            "kanji": "",
+            "meaning": ""
         }
     ]
 }
