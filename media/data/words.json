@@ -329,6 +329,202 @@
             "katakana": false,
             "kanji": "雑誌",
             "meaning": "magazine"
+        },
+        {
+            "id": 48,
+            "kana": "おかあさん",
+            "katakana": false,
+            "kanji": "お母さん",
+            "meaning": "mother"
+        },
+        {
+            "id": 49,
+            "kana": "おとうさん",
+            "katakana": false,
+            "kanji": "お父さん",
+            "meaning": "father"
+        },
+        {
+            "id": 50,
+            "kana": "おじいさん",
+            "katakana": false,
+            "kanji": "おじいさん",
+            "meaning": "grandfather"
+        },
+        {
+            "id": 51,
+            "kana": "おばあさん",
+            "katakana": false,
+            "kanji": "おばあさん",
+            "meaning": "grandmother"
+        },
+        {
+            "id": 52,
+            "kana": "あかちゃん",
+            "katakana": false,
+            "kanji": "赤ちゃん",
+            "meaning": "baby"
+        },
+        {
+            "id": 53,
+            "kana": "だれ",
+            "katakana": false,
+            "kanji": "誰",
+            "meaning": "who?"
+        },
+        {
+            "id": 54,
+            "kana": "わたし",
+            "katakana": false,
+            "kanji": "私",
+            "meaning": "I, me (m and f)"
+        },
+        {
+            "id": 55,
+            "kana": "ぼく",
+            "katakana": false,
+            "kanji": "僕",
+            "meaning": "I, me (m)"
+        },
+        {
+            "id": 56,
+            "kana": "あなた",
+            "katakana": false,
+            "kanji": "貴方",
+            "meaning": "you"
+        },
+        {
+            "id": 57,
+            "kana": "かのじょ",
+            "katakana": false,
+            "kanji": "彼女",
+            "meaning": "her, she, gf"
+        },
+        {
+            "id": 58,
+            "kana": "かれ",
+            "katakana": false,
+            "kanji": "彼",
+            "meaning": "him, he, bf"
+        },
+        {
+            "id": 59,
+            "kana": "なまえ",
+            "katakana": false,
+            "kanji": "名前",
+            "meaning": "name"
+        },
+        {
+            "id": 60,
+            "kana": "ともだち",
+            "katakana": false,
+            "kanji": "友達",
+            "meaning": "friend"
+        },
+        {
+            "id": 61,
+            "kana": "たぶん",
+            "katakana": false,
+            "kanji": "多分",
+            "meaning": "maybe"
+        },
+        {
+            "id": 62,
+            "kana": "がっこう",
+            "katakana": false,
+            "kanji": "学校",
+            "meaning": "school"
+        },
+        {
+            "id": 63,
+            "kana": "とり",
+            "katakana": false,
+            "kanji": "鳥",
+            "meaning": "bird"
+        },
+        {
+            "id": 64,
+            "kana": "せんせい",
+            "katakana": false,
+            "kanji": "先生",
+            "meaning": "teacher"
+        },
+        {
+            "id": 65,
+            "kana": "にほんのせんせい",
+            "katakana": false,
+            "kanji": "日本の先生",
+            "meaning": "japanese teacher"
+        },
+        {
+            "id": 66,
+            "kana": "ぞう",
+            "katakana": false,
+            "kanji": "像",
+            "meaning": "elephant"
+        },
+        {
+            "id": 67,
+            "kana": "うま",
+            "katakana": false,
+            "kanji": "馬",
+            "meaning": "horse"
+        },
+        {
+            "id": 68,
+            "kana": "パンダ",
+            "katakana": true,
+            "kanji": "パンダ",
+            "meaning": "panda"
+        },
+        {
+            "id": 69,
+            "kana": "うさぎ",
+            "katakana": false,
+            "kanji": "兎",
+            "meaning": "rabbit"
+        },
+        {
+            "id": 70,
+            "kana": "ライオン",
+            "katakana": true,
+            "kanji": "ライオン",
+            "meaning": "lion"
+        },
+        {
+            "id": 71,
+            "kana": "うし",
+            "katakana": false,
+            "kanji": "牛",
+            "meaning": "cow"
+        },
+        {
+            "id": 72,
+            "kana": "さる",
+            "katakana": false,
+            "kanji": "猿",
+            "meaning": "monkey"
+        },
+        {
+            "id": 73,
+            "kana": "ひつじ",
+            "katakana": false,
+            "kanji": "羊",
+            "meaning": "sheep"
+        },
+        {
+            "id": 74,
+            "kana": "きつね",
+            "katakana": false,
+            "kanji": "狐",
+            "meaning": "fox"
+        },
+        {
+            "id": 75,
+            "kana": "くま",
+            "katakana": false,
+            "kanji": "熊",
+            "meaning": "bear"
         }
     ]
 }
