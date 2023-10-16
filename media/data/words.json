@@ -525,6 +525,132 @@
             "katakana": false,
             "kanji": "熊",
             "meaning": "bear"
+        },
+        {
+            "id": 76,
+            "kana": "なにいろ",
+            "katakana": false,
+            "kanji": "何色",
+            "meaning": "what colour?"
+        },
+        {
+            "id": 77,
+            "kana": "いろ",
+            "katakana": false,
+            "kanji": "色",
+            "meaning": "colour"
+        },
+        {
+            "id": 78,
+            "kana": "あか",
+            "katakana": false,
+            "kanji": "赤",
+            "meaning": "red"
+        },
+        {
+            "id": 79,
+            "kana": "あお",
+            "katakana": false,
+            "kanji": "青",
+            "meaning": "blue"
+        },
+        {
+            "id": 80,
+            "kana": "しろ",
+            "katakana": false,
+            "kanji": "白",
+            "meaning": "white"
+        },
+        {
+            "id": 81,
+            "kana": "くろ",
+            "katakana": false,
+            "kanji": "黒",
+            "meaning": "black"
+        },
+        {
+            "id": 82,
+            "kana": "ちゃいろ",
+            "katakana": false,
+            "kanji": "茶色",
+            "meaning": "brown"
+        },
+        {
+            "id": 83,
+            "kana": "むらさき",
+            "katakana": false,
+            "kanji": "紫",
+            "meaning": "purple"
+        },
+        {
+            "id": 84,
+            "kana": "みずいろ",
+            "katakana": false,
+            "kanji": "水色",
+            "meaning": "light blue"
+        },
+        {
+            "id": 85,
+            "kana": "きいろ",
+            "katakana": false,
+            "kanji": "黄色",
+            "meaning": "yellow"
+        },
+        {
+            "id": 86,
+            "kana": "オレンジ",
+            "katakana": true,
+            "kanji": "オレンジ",
+            "meaning": "orange"
+        },
+        {
+            "id": 87,
+            "kana": "ピンク",
+            "katakana": true,
+            "kanji": "ピンク",
+            "meaning": "pink"
+        },
+        {
+            "id": 88,
+            "kana": "はいいろ",
+            "katakana": false,
+            "kanji": "灰色",
+            "meaning": "grey"
+        },
+        {
+            "id": 89,
+            "kana": "グレー",
+            "katakana": true,
+            "kanji": "グレー",
+            "meaning": "grey"
+        },
+        {
+            "id": 90,
+            "kana": "みどり",
+            "katakana": false,
+            "kanji": "緑",
+            "meaning": "green"
+        },
+        {
+            "id": 91,
+            "kana": "きんいろ",
+            "katakana": false,
+            "kanji": "金色",
+            "meaning": "gold"
+        },
+        {
+            "id": 92,
+            "kana": "ぎんいろ",
+            "katakana": false,
+            "kanji": "銀色",
+            "meaning": "silver"
+        },
+        {
+            "id": 93,
+            "kana": "とうめい",
+            "katakana": false,
+            "kanji": "透明",
+            "meaning": "clear, transparent"
         }
     ]
 }
