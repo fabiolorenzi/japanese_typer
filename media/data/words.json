@@ -2282,6 +2282,461 @@
             "katakana": false,
             "kanji": "休み",
             "meaning": "day off, break"
+        },
+        {
+            "id": 326,
+            "kana": "リモコン",
+            "katakana": true,
+            "kanji": "リモコン",
+            "meaning": "remote control"
+        },
+        {
+            "id": 327,
+            "kana": "ランポ",
+            "katakana": true,
+            "kanji": "ランポ",
+            "meaning": "lamp"
+        },
+        {
+            "id": 328,
+            "kana": "ビデオーデッキ",
+            "katakana": true,
+            "kanji": "ビデオーデッキ",
+            "meaning": "vcr"
+        },
+        {
+            "id": 329,
+            "kana": "ティッシュ",
+            "katakana": true,
+            "kanji": "ティッシュ",
+            "meaning": "tissue"
+        },
+        {
+            "id": 330,
+            "kana": "めんぼう",
+            "katakana": false,
+            "kanji": "綿棒",
+            "meaning": "cotton swab"
+        },
+        {
+            "id": 331,
+            "kana": "かいだん",
+            "katakana": false,
+            "kanji": "階段",
+            "meaning": "stairway"
+        },
+        {
+            "id": 332,
+            "kana": "ソファー",
+            "katakana": true,
+            "kanji": "ソファー",
+            "meaning": "sofa"
+        },
+        {
+            "id": 333,
+            "kana": "たんす",
+            "katakana": false,
+            "kanji": "箪笥",
+            "meaning": "dresser"
+        },
+        {
+            "id": 334,
+            "kana": "えんちょうコード",
+            "katakana": true,
+            "kanji": "園長コード",
+            "meaning": "extension cord"
+        },
+        {
+            "id": 335,
+            "kana": "ほんだな",
+            "katakana": false,
+            "kanji": "本棚",
+            "meaning": "bookshelf"
+        },
+        {
+            "id": 336,
+            "kana": "さとう",
+            "katakana": false,
+            "kanji": "砂糖",
+            "meaning": "sugar"
+        },
+        {
+            "id": 337,
+            "kana": "でんしレンジ",
+            "katakana": true,
+            "kanji": "電子レンジ",
+            "meaning": "microwave"
+        },
+        {
+            "id": 338,
+            "kana": "レンジ",
+            "katakana": true,
+            "kanji": "レンジ",
+            "meaning": "stove"
+        },
+        {
+            "id": 339,
+            "kana": "ケチャップ",
+            "katakana": true,
+            "kanji": "ケチャップ",
+            "meaning": "ketchup"
+        },
+        {
+            "id": 340,
+            "kana": "マスタード",
+            "katakana": true,
+            "kanji": "マスタード",
+            "meaning": "mustard"
+        },
+        {
+            "id": 341,
+            "kana": "しょうゆ",
+            "katakana": false,
+            "kanji": "醤油",
+            "meaning": "soy sauce"
+        },
+        {
+            "id": 342,
+            "kana": "れいとうこ",
+            "katakana": false,
+            "kanji": "冷凍庫",
+            "meaning": "freezer"
+        },
+        {
+            "id": 343,
+            "kana": "マヨネーズ",
+            "katakana": true,
+            "kanji": "マヨネーズ",
+            "meaning": "mayonnaise"
+        },
+        {
+            "id": 344,
+            "kana": "ほうちょう",
+            "katakana": false,
+            "kanji": "包丁",
+            "meaning": "kitchen knife"
+        },
+        {
+            "id": 345,
+            "kana": "いつも",
+            "katakana": false,
+            "kanji": "いつも",
+            "meaning": "always"
+        },
+        {
+            "id": 346,
+            "kana": "ときどき",
+            "katakana": false,
+            "kanji": "時々",
+            "meaning": "sometimes"
+        },
+        {
+            "id": 347,
+            "kana": "いぬごや",
+            "katakana": false,
+            "kanji": "犬小屋",
+            "meaning": "dog house"
+        },
+        {
+            "id": 348,
+            "kana": "うち",
+            "katakana": false,
+            "kanji": "家",
+            "meaning": "one's house"
+        },
+        {
+            "id": 349,
+            "kana": "へや",
+            "katakana": false,
+            "kanji": "部屋",
+            "meaning": "bedroom, room"
+        },
+        {
+            "id": 350,
+            "kana": "たま",
+            "katakana": false,
+            "kanji": "玉",
+            "meaning": "ball"
+        },
+        {
+            "id": 351,
+            "kana": "こうえん",
+            "katakana": false,
+            "kanji": "公園",
+            "meaning": "park"
+        },
+        {
+            "id": 352,
+            "kana": "けいさつ",
+            "katakana": false,
+            "kanji": "警察",
+            "meaning": "police"
+        },
+        {
+            "id": 353,
+            "kana": "ホテル",
+            "katakana": true,
+            "kanji": "ホテル",
+            "meaning": "hotel"
+        },
+        {
+            "id": 354,
+            "kana": "マック",
+            "katakana": true,
+            "kanji": "マック",
+            "meaning": "MC Donalds"
+        },
+        {
+            "id": 355,
+            "kana": "まいにち",
+            "katakana": false,
+            "kanji": "毎日",
+            "meaning": "every day"
+        },
+        {
+            "id": 356,
+            "kana": "まいしゅう",
+            "katakana": false,
+            "kanji": "毎週",
+            "meaning": "every week"
+        },
+        {
+            "id": 357,
+            "kana": "まいつき",
+            "katakana": false,
+            "kanji": "毎月",
+            "meaning": "every month"
+        },
+        {
+            "id": 358,
+            "kana": "まいとし",
+            "katakana": false,
+            "kanji": "毎年",
+            "meaning": "every year"
+        },
+        {
+            "id": 359,
+            "kana": "たくさん",
+            "katakana": false,
+            "kanji": "沢山",
+            "meaning": "a lot, many"
+        },
+        {
+            "id": 360,
+            "kana": "てりやきバーガー",
+            "katakana": true,
+            "kanji": "照り焼きバーガー",
+            "meaning": "teriyaki hamburger"
+        },
+        {
+            "id": 361,
+            "kana": "つきみばーがー",
+            "katakana": true,
+            "kanji": "月見バーガー",
+            "meaning": "hamburger with egg"
+        },
+        {
+            "id": 362,
+            "kana": "デパート",
+            "katakana": true,
+            "kanji": "デパート",
+            "meaning": "department store"
+        },
+        {
+            "id": 363,
+            "kana": "せんもんてん",
+            "katakana": false,
+            "kanji": "専門店",
+            "meaning": "speciality store"
+        },
+        {
+            "id": 364,
+            "kana": "スーパー",
+            "katakana": true,
+            "kanji": "スーパー",
+            "meaning": "supermarket"
+        },
+        {
+            "id": 365,
+            "kana": "くすりや",
+            "katakana": false,
+            "kanji": "薬屋",
+            "meaning": "drug store"
+        },
+        {
+            "id": 366,
+            "kana": "ほんや",
+            "katakana": false,
+            "kanji": "本屋",
+            "meaning": "book store"
+        },
+        {
+            "id": 367,
+            "kana": "コンビ二",
+            "katakana": true,
+            "kanji": "コンビニ",
+            "meaning": "convenience store"
+        },
+        {
+            "id": 368,
+            "kana": "やおや",
+            "katakana": false,
+            "kanji": "八百屋",
+            "meaning": "vegetable store"
+        },
+        {
+            "id": 369,
+            "kana": "にくや",
+            "katakana": false,
+            "kanji": "肉屋",
+            "meaning": "butcher shop"
+        },
+        {
+            "id": 370,
+            "kana": "ガソリンースタンド",
+            "katakana": true,
+            "kanji": "ガソリンースタンド",
+            "meaning": "gas station"
+        },
+        {
+            "id": 371,
+            "kana": "ドライブースルー",
+            "katakana": true,
+            "kanji": "ドライブースルー",
+            "meaning": "drive through"
+        },
+        {
+            "id": 372,
+            "kana": "もちかえり",
+            "katakana": false,
+            "kanji": "持ち帰り",
+            "meaning": "take out"
+        },
+        {
+            "id": 373,
+            "kana": "でまえ",
+            "katakana": false,
+            "kanji": "出前",
+            "meaning": "delivery (food)"
+        },
+        {
+            "id": 374,
+            "kana": "ファーストーフード",
+            "katakana": true,
+            "kanji": "ファーストーフード",
+            "meaning": "fast food"
+        },
+        {
+            "id": 375,
+            "kana": "ほんとう",
+            "katakana": false,
+            "kanji": "本当",
+            "meaning": "really?, true, tryly"
+        },
+        {
+            "id": 376,
+            "kana": "きりん",
+            "katakana": false,
+            "kanji": "きりん",
+            "meaning": "giraffe"
+        },
+        {
+            "id": 377,
+            "kana": "ひょう",
+            "katakana": false,
+            "kanji": "ひょう",
+            "meaning": "puma"
+        },
+        {
+            "id": 378,
+            "kana": "いもむし",
+            "katakana": false,
+            "kanji": "芋虫",
+            "meaning": "green caterpillar"
+        },
+        {
+            "id": 379,
+            "kana": "カンガルー",
+            "katakana": true,
+            "kanji": "カンガルー",
+            "meaning": "kangoroo"
+        },
+        {
+            "id": 380,
+            "kana": "とら",
+            "katakana": false,
+            "kanji": "寅",
+            "meaning": "tiger"
+        },
+        {
+            "id": 381,
+            "kana": "カバ",
+            "katakana": true,
+            "kanji": "カバ",
+            "meaning": "hippopotamus"
+        },
+        {
+            "id": 382,
+            "kana": "どうぶつ",
+            "katakana": false,
+            "kanji": "動物",
+            "meaning": "animal"
+        },
+        {
+            "id": 383,
+            "kana": "どうぶつえん",
+            "katakana": false,
+            "kanji": "動物園",
+            "meaning": "zoo"
+        },
+        {
+            "id": 384,
+            "kana": "となり",
+            "katakana": false,
+            "kanji": "隣",
+            "meaning": "next to, next door"
+        },
+        {
+            "id": 385,
+            "kana": "つくえ",
+            "katakana": false,
+            "kanji": "机",
+            "meaning": "desk"
+        },
+        {
+            "id": 386,
+            "kana": "テーブル",
+            "katakana": true,
+            "kanji": "テーブル",
+            "meaning": "table"
+        },
+        {
+            "id": 387,
+            "kana": "ええ",
+            "katakana": false,
+            "kanji": "ええ",
+            "meaning": "what!?"
+        },
+        {
+            "id": 388,
+            "kana": "うそ",
+            "katakana": false,
+            "kanji": "嘘",
+            "meaning": "a lie!, no way!"
+        },
+        {
+            "id": 389,
+            "kana": "トラック",
+            "katakana": true,
+            "kanji": "トラック",
+            "meaning": "truck"
+        },
+        {
+            "id": 390,
+            "kana": "バー",
+            "katakana": true,
+            "kanji": "バー",
+            "meaning": "bar"
         }
     ]
 }
