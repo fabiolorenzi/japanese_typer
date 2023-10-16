@@ -2,214 +2,333 @@
     "update_date": "2023-10-01",
     "value": [
         {
-            "id": 0,
-            "Kana": "くち",
-            "Katakana": false,
-            "Kanji": "口",
-            "Meaning": "mouth"
-        },
-        {
             "id": 1,
-            "Kana": "め",
-            "Katakana": false,
-            "Kanji": "目",
-            "Meaning": "eye"
+            "kana": "くち",
+            "katakana": false,
+            "kanji": "口",
+            "meaning": "mouth"
         },
         {
             "id": 2,
-            "Kana": "みみ",
-            "Katakana": false,
-            "Kanji": "耳",
-            "Meaning": "ear"
+            "kana": "め",
+            "katakana": false,
+            "kanji": "目",
+            "meaning": "eye"
         },
         {
             "id": 3,
-            "Kana": "はな",
-            "Katakana": false,
-            "Kanji": "鼻",
-            "Meaning": "nose"
+            "kana": "みみ",
+            "katakana": false,
+            "kanji": "耳",
+            "meaning": "ear"
         },
         {
             "id": 4,
-            "Kana": "かお",
-            "Katakana": false,
-            "Kanji": "顔",
-            "Meaning": "face"
+            "kana": "はな",
+            "katakana": false,
+            "kanji": "鼻",
+            "meaning": "nose"
         },
         {
             "id": 5,
-            "Kana": "て",
-            "Katakana": false,
-            "Kanji": "手",
-            "Meaning": "hand"
+            "kana": "かお",
+            "katakana": false,
+            "kanji": "顔",
+            "meaning": "face"
         },
         {
             "id": 6,
-            "Kana": "あし",
-            "Katakana": false,
-            "Kanji": "足",
-            "Meaning": "foot, leg"
+            "kana": "て",
+            "katakana": false,
+            "kanji": "手",
+            "meaning": "hand"
         },
         {
             "id": 7,
-            "Kana": "ゆび",
-            "Katakana": false,
-            "Kanji": "指",
-            "Meaning": "finger"
+            "kana": "あし",
+            "katakana": false,
+            "kanji": "足",
+            "meaning": "foot, leg"
         },
         {
             "id": 8,
-            "Kana": "あたま",
-            "Katakana": false,
-            "Kanji": "頭",
-            "Meaning": "head"
+            "kana": "ゆび",
+            "katakana": false,
+            "kanji": "指",
+            "meaning": "finger"
         },
         {
             "id": 9,
-            "Kana": "は",
-            "Katakana": false,
-            "Kanji": "歯",
-            "Meaning": "teeth, tooth"
+            "kana": "あたま",
+            "katakana": false,
+            "kanji": "頭",
+            "meaning": "head"
         },
         {
             "id": 10,
-            "Kana": "まくら",
-            "Katakana": false,
-            "Kanji": "枕",
-            "Meaning": "pillow"
+            "kana": "は",
+            "katakana": false,
+            "kanji": "歯",
+            "meaning": "teeth, tooth"
         },
         {
             "id": 11,
-            "Kana": "ベッド",
-            "Katakana": true,
-            "Kanji": "ベッド",
-            "Meaning": "bed"
+            "kana": "まくら",
+            "katakana": false,
+            "kanji": "枕",
+            "meaning": "pillow"
         },
         {
             "id": 12,
-            "Kana": "ふとん",
-            "Katakana": false,
-            "Kanji": "布団",
-            "Meaning": "futon"
+            "kana": "ベッド",
+            "katakana": true,
+            "kanji": "ベッド",
+            "meaning": "bed"
         },
         {
             "id": 13,
-            "Kana": "もうふ",
-            "Katakana": false,
-            "Kanji": "毛布",
-            "Meaning": "blanket"
+            "kana": "ふとん",
+            "katakana": false,
+            "kanji": "布団",
+            "meaning": "futon"
         },
         {
             "id": 14,
-            "Kana": "タオル",
-            "Katakana": true,
-            "Kanji": "タオル",
-            "Meaning": "towel"
+            "kana": "もうふ",
+            "katakana": false,
+            "kanji": "毛布",
+            "meaning": "blanket"
         },
         {
             "id": 15,
-            "Kana": "おふろ",
-            "Katakana": false,
-            "Kanji": "お風呂",
-            "Meaning": "bath"
+            "kana": "タオル",
+            "katakana": true,
+            "kanji": "タオル",
+            "meaning": "towel"
         },
         {
             "id": 16,
-            "Kana": "せっけん",
-            "Katakana": false,
-            "Kanji": "石けん",
-            "Meaning": "soap"
+            "kana": "おふろ",
+            "katakana": false,
+            "kanji": "お風呂",
+            "meaning": "bath"
         },
         {
             "id": 17,
-            "Kana": "はブラシ",
-            "Katakana": true,
-            "Kanji": "歯かがみ",
-            "Meaning": "toothbrush"
+            "kana": "せっけん",
+            "katakana": false,
+            "kanji": "石けん",
+            "meaning": "soap"
         },
         {
             "id": 18,
-            "Kana": "かがみ",
-            "Katakana": false,
-            "Kanji": "鏡",
-            "Meaning": "mirror"
+            "kana": "はブラシ",
+            "katakana": true,
+            "kanji": "歯ブラシ",
+            "meaning": "toothbrush"
         },
         {
             "id": 19,
-            "Kana": "まど",
-            "Katakana": false,
-            "Kanji": "窓",
-            "Meaning": "window"
+            "kana": "かがみ",
+            "katakana": false,
+            "kanji": "鏡",
+            "meaning": "mirror"
         },
         {
             "id": 20,
-            "Kana": "クレーム",
-            "Katakana": true,
-            "Kanji": "クレーム",
-            "Meaning": "complaint"
+            "kana": "まど",
+            "katakana": false,
+            "kanji": "窓",
+            "meaning": "window"
         },
         {
             "id": 21,
-            "Kana": "サイン",
-            "Katakana": true,
-            "Kanji": "サイン",
-            "Meaning": "signature"
+            "kana": "なに",
+            "katakana": false,
+            "kanji": "何",
+            "meaning": "what?"
         },
         {
             "id": 22,
-            "Kana": "ジョッキ",
-            "Katakana": true,
-            "Kanji": "ジョッキ",
-            "Meaning": "beer mag"
+            "kana": "はい",
+            "katakana": false,
+            "kanji": "はい",
+            "meaning": "yes"
         },
         {
             "id": 23,
-            "Kana": "ウイルス",
-            "Katakana": true,
-            "Kanji": "ウイルス",
-            "Meaning": "virus"
+            "kana": "いいえ",
+            "katakana": false,
+            "kanji": "いいえ",
+            "meaning": "no"
         },
         {
             "id": 24,
-            "Kana": "ラジオ",
-            "Katakana": true,
-            "Kanji": "ラジオ",
-            "Meaning": "radio"
+            "kana": "いぬ",
+            "katakana": false,
+            "kanji": "犬",
+            "meaning": "dog"
         },
         {
             "id": 25,
-            "Kana": "シール",
-            "Katakana": true,
-            "Kanji": "シール",
-            "Meaning": "sticker"
+            "kana": "ねこ",
+            "katakana": false,
+            "kanji": "猫",
+            "meaning": "cat"
         },
         {
             "id": 26,
-            "Kana": "メイク",
-            "Katakana": true,
-            "Kanji": "メイク",
-            "Meaning": "make-up"
+            "kana": "さん",
+            "katakana": false,
+            "kanji": "さん",
+            "meaning": "~san"
         },
         {
             "id": 27,
-            "Kana": "フライドポテト",
-            "Katakana": true,
-            "Kanji": "フライドポテト",
-            "Meaning": "french fries"
+            "kana": "たなか",
+            "katakana": false,
+            "kanji": "田中",
+            "meaning": "Tanaka (common name)"
         },
         {
             "id": 28,
-            "Kana": "ドライバー",
-            "Katakana": true,
-            "Kanji": "ドライバー",
-            "Meaning": "screwdriver"
+            "kana": "こばやし",
+            "katakana": false,
+            "kanji": "小林",
+            "meaning": "Kobayashi (common name)"
         },
         {
             "id": 29,
-            "Kana": "ウオッカ",
-            "Katakana": true,
-            "Kanji": "ウオッカ",
-            "Meaning": "vodka"
+            "kana": "どれ",
+            "katakana": false,
+            "kanji": "どれ",
+            "meaning": "which one (3 or more)"
+        },
+        {
+            "id": 30,
+            "kana": "これ",
+            "katakana": false,
+            "kanji": "これ",
+            "meaning": "this one (3 or more)"
+        },
+        {
+            "id": 31,
+            "kana": "それ",
+            "katakana": false,
+            "kanji": "それ",
+            "meaning": "that one (3 or more)"
+        },
+        {
+            "id": 32,
+            "kana": "あれ",
+            "katakana": false,
+            "kanji": "あれ",
+            "meaning": "that one over there (3 or more)"
+        },
+        {
+            "id": 33,
+            "kana": "どっち",
+            "katakana": false,
+            "kanji": "どっち",
+            "meaning": "which one (2 items)"
+        },
+        {
+            "id": 34,
+            "kana": "こっち",
+            "katakana": false,
+            "kanji": "こっち",
+            "meaning": "this one (2 items)"
+        },
+        {
+            "id": 35,
+            "kana": "そっち",
+            "katakana": false,
+            "kanji": "そっち",
+            "meaning": "that one (2 items)"
+        },
+        {
+            "id": 36,
+            "kana": "あっち",
+            "katakana": false,
+            "kanji": "あっち",
+            "meaning": "that one over there (2 items)"
+        },
+        {
+            "id": 37,
+            "kana": "レタス",
+            "katakana": true,
+            "kanji": "レタス",
+            "meaning": "lettuce"
+        },
+        {
+            "id": 38,
+            "kana": "バナナ",
+            "katakana": true,
+            "kanji": "バナナ",
+            "meaning": "banana"
+        },
+        {
+            "id": 39,
+            "kana": "やさい",
+            "katakana": false,
+            "kanji": "野菜",
+            "meaning": "vegetable"
+        },
+        {
+            "id": 40,
+            "kana": "フルーツ",
+            "katakana": true,
+            "kanji": "フルーツ",
+            "meaning": "fruit"
+        },
+        {
+            "id": 41,
+            "kana": "くだもの",
+            "katakana": false,
+            "kanji": "果物",
+            "meaning": "fruit"
+        },
+        {
+            "id": 42,
+            "kana": "すし",
+            "katakana": false,
+            "kanji": "寿司",
+            "meaning": "sushi"
+        },
+        {
+            "id": 43,
+            "kana": "ペン",
+            "katakana": true,
+            "kanji": "ペン",
+            "meaning": "pen"
+        },
+        {
+            "id": 44,
+            "kana": "くるま",
+            "katakana": false,
+            "kanji": "車",
+            "meaning": "car"
+        },
+        {
+            "id": 45,
+            "kana": "コンピューター",
+            "katakana": true,
+            "kanji": "コンピューター",
+            "meaning": "computer"
+        },
+        {
+            "id": 46,
+            "kana": "ほん",
+            "katakana": false,
+            "kanji": "本",
+            "meaning": "book"
+        },
+        {
+            "id": 47,
+            "kana": "ざっし",
+            "katakana": false,
+            "kanji": "雑誌",
+            "meaning": "magazine"
         }
     ]
 }
