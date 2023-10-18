@@ -2737,6 +2737,167 @@
             "katakana": true,
             "kanji": "バー",
             "meaning": "bar"
+        },
+        {
+            "id": 391,
+            "kana": "よこ",
+            "katakana": false,
+            "kanji": "よこ",
+            "meaning": "side, next to"
+        },
+        {
+            "id": 392,
+            "kana": "まえ",
+            "katakana": false,
+            "kanji": "まえ",
+            "meaning": "in front"
+        },
+        {
+            "id": 393,
+            "kana": "うしろ",
+            "katakana": false,
+            "kanji": "うしろ",
+            "meaning": "behind"
+        },
+        {
+            "id": 394,
+            "kana": "あいだ",
+            "katakana": false,
+            "kanji": "あいだ",
+            "meaning": "between"
+        },
+        {
+            "id": 395,
+            "kana": "かいしゃ",
+            "katakana": false,
+            "kanji": "会社",
+            "meaning": "company"
+        },
+        {
+            "id": 396,
+            "kana": "ホッチキス",
+            "katakana": true,
+            "kanji": "ホッチキス",
+            "meaning": "staplen"
+        },
+        {
+            "id": 397,
+            "kana": "じょうぎ",
+            "katakana": false,
+            "kanji": "定規",
+            "meaning": "ruler"
+        },
+        {
+            "id": 398,
+            "kana": "はさみ",
+            "katakana": false,
+            "kanji": "鋏",
+            "meaning": "scissor"
+        },
+        {
+            "id": 399,
+            "kana": "プリンター",
+            "katakana": true,
+            "kanji": "プリンター",
+            "meaning": "printer"
+        },
+        {
+            "id": 400,
+            "kana": "けしゴム",
+            "katakana": true,
+            "kanji": "消しゴム",
+            "meaning": "eraser"
+        },
+        {
+            "id": 401,
+            "kana": "かいぎ",
+            "katakana": false,
+            "kanji": "会議",
+            "meaning": "meeting"
+        },
+        {
+            "id": 402,
+            "kana": "しゃちょう",
+            "katakana": false,
+            "kanji": "社長",
+            "meaning": "president (company)"
+        },
+        {
+            "id": 403,
+            "kana": "かみ",
+            "katakana": false,
+            "kanji": "紙",
+            "meaning": "paper"
+        },
+        {
+            "id": 404,
+            "kana": "きゅうりょう",
+            "katakana": false,
+            "kanji": "給料",
+            "meaning": "salary"
+        },
+        {
+            "id": 405,
+            "kana": "こぎって",
+            "katakana": false,
+            "kanji": "小切手",
+            "meaning": "a check (bank)"
+        },
+        {
+            "id": 406,
+            "kana": "コピーき",
+            "katakana": true,
+            "kanji": "コピーき",
+            "meaning": "copy machine"
+        },
+        {
+            "id": 407,
+            "kana": "どの",
+            "katakana": false,
+            "kanji": "どの",
+            "meaning": "which (item)"
+        },
+        {
+            "id": 408,
+            "kana": "ぐらい",
+            "katakana": false,
+            "kanji": "位",
+            "meaning": "about"
+        },
+        {
+            "id": 409,
+            "kana": "これから",
+            "katakana": false,
+            "kanji": "これから",
+            "meaning": "right now, from now"
+        },
+        {
+            "id": 410,
+            "kana": "この",
+            "katakana": false,
+            "kanji": "この",
+            "meaning": "this (item)"
+        },
+        {
+            "id": 411,
+            "kana": "その",
+            "katakana": false,
+            "kanji": "その",
+            "meaning": "that (item)"
+        },
+        {
+            "id": 412,
+            "kana": "あの",
+            "katakana": false,
+            "kanji": "あの",
+            "meaning": "that (item) over there"
+        },
+        {
+            "id": 413,
+            "kana": "",
+            "katakana": false,
+            "kanji": "",
+            "meaning": ""
         }
     ]
 }
