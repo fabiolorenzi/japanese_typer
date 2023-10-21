@@ -6436,241 +6436,892 @@
         },
         {
             "id": 916,
-            "kana": "",
+            "kana": "まる",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "丸",
+            "meaning": "circle"
         },
         {
             "id": 917,
-            "kana": "",
+            "kana": "さんかく",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "三角",
+            "meaning": "triangle"
         },
         {
             "id": 918,
-            "kana": "",
+            "kana": "しかく",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "四角",
+            "meaning": "square"
         },
         {
             "id": 919,
-            "kana": "",
+            "kana": "はこ",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "箱",
+            "meaning": "box"
         },
         {
             "id": 920,
-            "kana": "",
+            "kana": "ちょうほうけい",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "長方形",
+            "meaning": "rectangular"
         },
         {
             "id": 921,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "ボタン",
+            "katakana": true,
+            "kanji": "ボタン",
+            "meaning": "button"
         },
         {
             "id": 922,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "サンダル",
+            "katakana": true,
+            "kanji": "サンダル",
+            "meaning": "sandals"
         },
         {
             "id": 923,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "スニーカー",
+            "katakana": true,
+            "kanji": "スニーカー",
+            "meaning": "sneakers"
         },
         {
             "id": 924,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "ハイヒール",
+            "katakana": true,
+            "kanji": "ハイヒール",
+            "meaning": "high heels"
         },
         {
             "id": 925,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "ワンピース",
+            "katakana": true,
+            "kanji": "ワンピース",
+            "meaning": "one piece dress"
         },
         {
             "id": 926,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "ジャケット",
+            "katakana": true,
+            "kanji": "ジャケット",
+            "meaning": "jacket"
         },
         {
             "id": 927,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "ジーパン",
+            "katakana": true,
+            "kanji": "ジーパン",
+            "meaning": "jeans"
         },
         {
             "id": 928,
-            "kana": "",
+            "kana": "くつひも",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "靴紐",
+            "meaning": "shoelace"
         },
         {
             "id": 929,
-            "kana": "",
+            "kana": "しんゆう",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "親友",
+            "meaning": "best friend"
         },
         {
             "id": 930,
-            "kana": "",
+            "kana": "ざんねん",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "残念",
+            "meaning": "unfortunate"
         },
         {
             "id": 931,
-            "kana": "",
+            "kana": "いつか",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "いつか",
+            "meaning": "someday"
         },
         {
             "id": 932,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "イヤリング",
+            "katakana": true,
+            "kanji": "イヤリング",
+            "meaning": "clip on earrings"
         },
         {
             "id": 933,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "ピアス",
+            "katakana": true,
+            "kanji": "ピアス",
+            "meaning": "piercied earrings"
         },
         {
             "id": 934,
-            "kana": "",
+            "kana": "くすり",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "薬",
+            "meaning": "medicine"
         },
         {
             "id": 936,
-            "kana": "",
+            "kana": "ちゅうこしゃ",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "中古車",
+            "meaning": "used car"
         },
         {
             "id": 937,
-            "kana": "",
+            "kana": "はやく",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "早く",
+            "meaning": "quickly, fast, hurry up"
         },
         {
             "id": 938,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "ラップ",
+            "katakana": true,
+            "kanji": "ラップ",
+            "meaning": "rap music"
         },
         {
             "id": 939,
-            "kana": "",
+            "kana": "いき",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "息",
+            "meaning": "breath"
         },
         {
             "id": 940,
-            "kana": "",
+            "kana": "～いしゅう",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "～いしゅう",
+            "meaning": "over~"
         },
         {
             "id": 941,
-            "kana": "",
+            "kana": "～いか",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "～いか",
+            "meaning": "under~"
         },
         {
             "id": 942,
-            "kana": "",
+            "kana": "さいきん",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "最近",
+            "meaning": "recently"
         },
         {
             "id": 943,
-            "kana": "",
+            "kana": "くせ",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "癖",
+            "meaning": "habit"
         },
         {
             "id": 944,
-            "kana": "",
+            "kana": "がん",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "癌",
+            "meaning": "cancer"
         },
         {
             "id": 945,
-            "kana": "",
+            "kana": "なら",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "なら",
+            "meaning": "if..."
         },
         {
             "id": 946,
-            "kana": "",
+            "kana": "やめる",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "止める",
+            "meaning": "to quit"
         },
         {
             "id": 947,
-            "kana": "",
-            "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kana": "ペンキ",
+            "katakana": true,
+            "kanji": "ペンキ",
+            "meaning": "paint"
         },
         {
             "id": 948,
-            "kana": "",
+            "kana": "くぎ",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "くぎ",
+            "meaning": "nail"
         },
         {
             "id": 949,
-            "kana": "",
+            "kana": "ねじ",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "ねじ",
+            "meaning": "screw"
         },
         {
             "id": 950,
-            "kana": "",
+            "kana": "のこぎり",
             "katakana": false,
-            "kanji": "",
-            "meaning": ""
+            "kanji": "鋸",
+            "meaning": "saw"
+        },
+        {
+            "id": 951,
+            "kana": "ハンマー",
+            "katakana": true,
+            "kanji": "ハンマ",
+            "meaning": "hammer"
+        },
+        {
+            "id": 952,
+            "kana": "ドライバー",
+            "katakana": true,
+            "kanji": "ドライバー",
+            "meaning": "screwdriver"
+        },
+        {
+            "id": 953,
+            "kana": "マイナスードライバー",
+            "katakana": true,
+            "kanji": "マイナスードライバー",
+            "meaning": "flat head screwdriver"
+        },
+        {
+            "id": 954,
+            "kana": "バケツ",
+            "katakana": true,
+            "kanji": "バケツ",
+            "meaning": "backet"
+        },
+        {
+            "id": 955,
+            "kana": "バッテリー",
+            "katakana": true,
+            "kanji": "バッテリー",
+            "meaning": "car battery"
+        },
+        {
+            "id": 956,
+            "kana": "かいちゅうでんどう",
+            "katakana": false,
+            "kanji": "懐中電動",
+            "meaning": "flashlight"
+        },
+        {
+            "id": 957,
+            "kana": "はしご",
+            "katakana": false,
+            "kanji": "はしご",
+            "meaning": "ladder"
+        },
+        {
+            "id": 958,
+            "kana": "たんご",
+            "katakana": false,
+            "kanji": "単語",
+            "meaning": "vocabulary, words"
+        },
+        {
+            "id": 959,
+            "kana": "めいし",
+            "katakana": false,
+            "kanji": "名詞",
+            "meaning": "noun"
+        },
+        {
+            "id": 960,
+            "kana": "けいようし",
+            "katakana": false,
+            "kanji": "形容詞",
+            "meaning": "adjective"
+        },
+        {
+            "id": 961,
+            "kana": "どうし",
+            "katakana": false,
+            "kanji": "動詞",
+            "meaning": "verb"
+        },
+        {
+            "id": 962,
+            "kana": "ぶんぽう",
+            "katakana": false,
+            "kanji": "文法",
+            "meaning": "grammar"
+        },
+        {
+            "id": 963,
+            "kana": "しけん",
+            "katakana": false,
+            "kanji": "試験",
+            "meaning": "test"
+        },
+        {
+            "id": 964,
+            "kana": "むば",
+            "katakana": false,
+            "kanji": "む歯",
+            "meaning": "cavity"
+        },
+        {
+            "id": 965,
+            "kana": "はいしゃ",
+            "katakana": false,
+            "kanji": "歯医者",
+            "meaning": "dentist"
+        },
+        {
+            "id": 966,
+            "kana": "パイロット",
+            "katakana": true,
+            "kanji": "パイロット",
+            "meaning": "pilot"
+        },
+        {
+            "id": 967,
+            "kana": "だいじょうぶ",
+            "katakana": false,
+            "kanji": "大丈夫",
+            "meaning": "all right, safe"
+        },
+        {
+            "id": 968,
+            "kana": "むぐ",
+            "katakana": false,
+            "kanji": "むぐ",
+            "meaning": "right away, immediately"
+        },
+        {
+            "id": 969,
+            "kana": "ポップコーン",
+            "katakana": true,
+            "kanji": "ポップコーン",
+            "meaning": "pop corn"
+        },
+        {
+            "id": 970,
+            "kana": "だけ",
+            "katakana": false,
+            "kanji": "だけ",
+            "meaning": "only"
+        },
+        {
+            "id": 971,
+            "kana": "しゃっくり",
+            "katakana": false,
+            "kanji": "しゃっくり",
+            "meaning": "hiccups"
+        },
+        {
+            "id": 972,
+            "kana": "おなら",
+            "katakana": false,
+            "kanji": "おなら",
+            "meaning": "fart"
+        },
+        {
+            "id": 973,
+            "kana": "けっぷ",
+            "katakana": false,
+            "kanji": "けっぷ",
+            "meaning": "burp"
+        },
+        {
+            "id": 974,
+            "kana": "くしやみ",
+            "katakana": false,
+            "kanji": "くしやみ",
+            "meaning": "sneeze"
+        },
+        {
+            "id": 975,
+            "kana": "おしっこ",
+            "katakana": false,
+            "kanji": "おしっこ",
+            "meaning": "urine"
+        },
+        {
+            "id": 976,
+            "kana": "うんこ",
+            "katakana": false,
+            "kanji": "うんこ",
+            "meaning": "feces"
+        },
+        {
+            "id": 977,
+            "kana": "はなくそ",
+            "katakana": false,
+            "kanji": "鼻くそ",
+            "meaning": "booger"
+        },
+        {
+            "id": 978,
+            "kana": "はなみず",
+            "katakana": false,
+            "kanji": "鼻水",
+            "meaning": "snot"
+        },
+        {
+            "id": 979,
+            "kana": "よだれ",
+            "katakana": false,
+            "kanji": "涎",
+            "meaning": "slobber"
+        },
+        {
+            "id": 980,
+            "kana": "いびき",
+            "katakana": false,
+            "kanji": "いびき",
+            "meaning": "snoring"
+        },
+        {
+            "id": 981,
+            "kana": "あくび",
+            "katakana": false,
+            "kanji": "欠伸",
+            "meaning": "yawn"
+        },
+        {
+            "id": 982,
+            "kana": "つうきん",
+            "katakana": false,
+            "kanji": "通勤",
+            "meaning": "commuting to work"
+        },
+        {
+            "id": 983,
+            "kana": "てんきん",
+            "katakana": false,
+            "kanji": "転勤",
+            "meaning": "a transfer (job)"
+        },
+        {
+            "id": 984,
+            "kana": "ふたりへや",
+            "katakana": false,
+            "kanji": "二人部屋",
+            "meaning": "a room for two"
+        },
+        {
+            "id": 985,
+            "kana": "ふどうさん",
+            "katakana": false,
+            "kanji": "不動産",
+            "meaning": "real estate"
+        },
+        {
+            "id": 986,
+            "kana": "ふどうさんやさん",
+            "katakana": false,
+            "kanji": "不動産屋さん",
+            "meaning": "real estate agent"
+        },
+        {
+            "id": 987,
+            "kana": "ところ",
+            "katakana": false,
+            "kanji": "所",
+            "meaning": "place"
+        },
+        {
+            "id": 988,
+            "kana": "マンション",
+            "katakana": true,
+            "kanji": "マンション",
+            "meaning": "large apartment"
+        },
+        {
+            "id": 989,
+            "kana": "ワンルームーマンション",
+            "katakana": true,
+            "kanji": "ワンルームーマンション",
+            "meaning": "one room apartment"
+        },
+        {
+            "id": 990,
+            "kana": "シドニー",
+            "katakana": true,
+            "kanji": "シドニー",
+            "meaning": "Sidney"
+        },
+        {
+            "id": 991,
+            "kana": "せんそう",
+            "katakana": false,
+            "kanji": "戦争",
+            "meaning": "war"
+        },
+        {
+            "id": 992,
+            "kana": "からだ",
+            "katakana": false,
+            "kanji": "体",
+            "meaning": "body"
+        },
+        {
+            "id": 993,
+            "kana": "じつは",
+            "katakana": false,
+            "kanji": "実は",
+            "meaning": "actually"
+        },
+        {
+            "id": 994,
+            "kana": "ありさつ",
+            "katakana": false,
+            "kanji": "ありさつ",
+            "meaning": "greetings"
+        },
+        {
+            "id": 995,
+            "kana": "ロケット",
+            "katakana": true,
+            "kanji": "ロケット",
+            "meaning": "rocket"
+        },
+        {
+            "id": 996,
+            "kana": "ばくだん",
+            "katakana": false,
+            "kanji": "爆弾",
+            "meaning": "bomb"
+        },
+        {
+            "id": 997,
+            "kana": "ライコル",
+            "katakana": true,
+            "kanji": "ライコル",
+            "meaning": "rifle"
+        },
+        {
+            "id": 998,
+            "kana": "アーミーナイフ",
+            "katakana": true,
+            "kanji": "アーミーナイフ",
+            "meaning": "army knife"
+        },
+        {
+            "id": 999,
+            "kana": "すいとう",
+            "katakana": false,
+            "kanji": "すいとう",
+            "meaning": "canteen"
+        },
+        {
+            "id": 1000,
+            "kana": "せんとうき",
+            "katakana": false,
+            "kanji": "戦闘機",
+            "meaning": "war aircraft"
+        },
+        {
+            "id": 1001,
+            "kana": "せんすいかん",
+            "katakana": false,
+            "kanji": "潜水艦",
+            "meaning": "submarine"
+        },
+        {
+            "id": 1002,
+            "kana": "くうぐん",
+            "katakana": false,
+            "kanji": "空軍",
+            "meaning": "air force"
+        },
+        {
+            "id": 1003,
+            "kana": "りんぐん",
+            "katakana": false,
+            "kanji": "隣軍",
+            "meaning": "army"
+        },
+        {
+            "id": 1004,
+            "kana": "かいぐん",
+            "katakana": false,
+            "kanji": "海軍",
+            "meaning": "navy"
+        },
+        {
+            "id": 1005,
+            "kana": "じえいたい",
+            "katakana": false,
+            "kanji": "自衛隊",
+            "meaning": "self defence force"
+        },
+        {
+            "id": 1006,
+            "kana": "げんしばくだん",
+            "katakana": false,
+            "kanji": "原子爆弾",
+            "meaning": "nuclear bomb"
+        },
+        {
+            "id": 1007,
+            "kana": "せんしゃ",
+            "katakana": false,
+            "kanji": "戦車",
+            "meaning": "tank"
+        },
+        {
+            "id": 1008,
+            "kana": "フロント",
+            "katakana": true,
+            "kanji": "フロント",
+            "meaning": "front desk"
+        },
+        {
+            "id": 1009,
+            "kana": "チェックアウト",
+            "katakana": true,
+            "kanji": "チェックアウト",
+            "meaning": "check out"
+        },
+        {
+            "id": 1010,
+            "kana": "チェックイン",
+            "katakana": true,
+            "kanji": "チェックイン",
+            "meaning": "check in"
+        },
+        {
+            "id": 1011,
+            "kana": "ルームサービス",
+            "katakana": true,
+            "kanji": "ルームサービス",
+            "meaning": "room service"
+        },
+        {
+            "id": 1012,
+            "kana": "ビュッフェ",
+            "katakana": true,
+            "kanji": "ビュッフェ",
+            "meaning": "buffet"
+        },
+        {
+            "id": 1013,
+            "kana": "じどうはんばいき",
+            "katakana": false,
+            "kanji": "自動販売木",
+            "meaning": "vending machine"
+        },
+        {
+            "id": 1014,
+            "kana": "がいこく",
+            "katakana": false,
+            "kanji": "外国",
+            "meaning": "foreign country"
+        },
+        {
+            "id": 1015,
+            "kana": "え",
+            "katakana": false,
+            "kanji": "絵",
+            "meaning": "a drawing, painting"
+        },
+        {
+            "id": 1016,
+            "kana": "うら",
+            "katakana": false,
+            "kanji": "裏",
+            "meaning": "the back"
+        },
+        {
+            "id": 1017,
+            "kana": "ドレス",
+            "katakana": true,
+            "kanji": "ドレス",
+            "meaning": "dress"
+        },
+        {
+            "id": 1018,
+            "kana": "また",
+            "katakana": false,
+            "kanji": "又",
+            "meaning": "again"
+        },
+        {
+            "id": 1019,
+            "kana": "てんのうへいか",
+            "katakana": false,
+            "kanji": "天皇陛下",
+            "meaning": "emperor"
+        },
+        {
+            "id": 1020,
+            "kana": "ランニング",
+            "katakana": true,
+            "kanji": "ランニング",
+            "meaning": "running"
+        },
+        {
+            "id": 1021,
+            "kana": "ダイエット",
+            "katakana": true,
+            "kanji": "ダイエット",
+            "meaning": "diet"
+        },
+        {
+            "id": 1022,
+            "kana": "おたまじゃくし",
+            "katakana": false,
+            "kanji": "お玉じゃくし",
+            "meaning": "tadpole"
+        },
+        {
+            "id": 1023,
+            "kana": "ハネムーン",
+            "katakana": true,
+            "kanji": "ハネムーン",
+            "meaning": "honeymoon"
+        },
+        {
+            "id": 1024,
+            "kana": "けっこんしき",
+            "katakana": false,
+            "kanji": "結婚式",
+            "meaning": "wedding ceremony"
+        },
+        {
+            "id": 1025,
+            "kana": "ひとばん",
+            "katakana": false,
+            "kanji": "一晩",
+            "meaning": "one night"
+        },
+        {
+            "id": 1026,
+            "kana": "やすむ",
+            "katakana": false,
+            "kanji": "休む",
+            "meaning": "to rest, have a break"
+        },
+        {
+            "id": 1027,
+            "kana": "りょこうがいしゃ",
+            "katakana": false,
+            "kanji": "旅行会社",
+            "meaning": "travel company"
+        },
+        {
+            "id": 1028,
+            "kana": "パックージツアー",
+            "katakana": true,
+            "kanji": "パックージツアー",
+            "meaning": "package tour"
+        },
+        {
+            "id": 1029,
+            "kana": "きく",
+            "katakana": false,
+            "kanji": "聞く",
+            "meaning": "to ask"
+        },
+        {
+            "id": 1030,
+            "kana": "たついて",
+            "katakana": false,
+            "kanji": "たついて",
+            "meaning": "about, regarding"
+        },
+        {
+            "id": 1031,
+            "kana": "めんせつ",
+            "katakana": false,
+            "kanji": "面接",
+            "meaning": "an interview"
+        },
+        {
+            "id": 1032,
+            "kana": "めんせつかん",
+            "katakana": false,
+            "kanji": "面接官",
+            "meaning": "an interviewer"
+        },
+        {
+            "id": 1033,
+            "kana": "ひしょ",
+            "katakana": false,
+            "kanji": "秘書",
+            "meaning": "secretary"
+        },
+        {
+            "id": 1034,
+            "kana": "ひじょう",
+            "katakana": false,
+            "kanji": "ひじょう",
+            "meaning": "normal, everyday, ordinary"
+        },
+        {
+            "id": 1035,
+            "kana": "プログラミング",
+            "katakana": true,
+            "kanji": "プログラミング",
+            "meaning": "programming"
+        },
+        {
+            "id": 1036,
+            "kana": "しそ",
+            "katakana": false,
+            "kanji": "しそ",
+            "meaning": "japanese basil"
+        },
+        {
+            "id": 1037,
+            "kana": "がまん",
+            "katakana": false,
+            "kanji": "我慢",
+            "meaning": "patience, endurance, self control"
+        },
+        {
+            "id": 1038,
+            "kana": "うみ",
+            "katakana": false,
+            "kanji": "海",
+            "meaning": "beach"
+        },
+        {
+            "id": 1039,
+            "kana": "かいみずよく",
+            "katakana": false,
+            "kanji": "かいみずよく",
+            "meaning": "ocean bathing"
+        },
+        {
+            "id": 1040,
+            "kana": "ひとりで",
+            "katakana": false,
+            "kanji": "一人で",
+            "meaning": "by yourself, alone"
+        },
+        {
+            "id": 1041,
+            "kana": "さいふ",
+            "katakana": false,
+            "kanji": "財布",
+            "meaning": "wallet"
+        },
+        {
+            "id": 1042,
+            "kana": "わすれもの",
+            "katakana": false,
+            "kanji": "忘れ物",
+            "meaning": "forgotten item"
+        },
+        {
+            "id": 1043,
+            "kana": "つくる",
+            "katakana": false,
+            "kanji": "作る",
+            "meaning": "to make"
         }
     ]
 }
