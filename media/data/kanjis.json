@@ -2,9 +2,21 @@
     "update_date": "2023-10-01",
     "value": [
         {
-            "id": 0,
+            "id": 1,
             "kanji": "一",
             "values": [
+                {
+                    "example_value": "一",
+                    "example_reading": "いち",
+                    "simple_reading": "いち",
+                    "meaning": "one"
+                },
+                {
+                    "example_value": "一度",
+                    "example_reading": "いちど",
+                    "simple_reading": "いち",
+                    "meaning": "one time"
+                },
                 {
                     "example_value": "一つ",
                     "example_reading": "ひとつ",
@@ -12,156 +24,68 @@
                     "meaning": "one thing"
                 },
                 {
-                    "example_value": "一",
-                    "example_reading": "いち",
+                    "example_value": "一月",
+                    "example_reading": "いちがつ",
                     "simple_reading": "いち",
-                    "meaning": "one"
+                    "meaning": "January"
+                },
+                {
+                    "example_value": "一日",
+                    "example_reading": "ついたち",
+                    "simple_reading": "つい",
+                    "meaning": "first of the month"
+                },
+                {
+                    "example_value": "一般",
+                    "example_reading": "いっぱん",
+                    "simple_reading": "いっ",
+                    "meaning": "normal, general"
                 }
             ],
             "kanji_meaning": "one"
         },
         {
-            "id": 1,
+            "id": 2,
             "kanji": "二",
             "values": [
+                {
+                    "example_value": "二",
+                    "example_reading": "に",
+                    "simple_reading": "に",
+                    "meaning": "two"
+                },
                 {
                     "example_value": "二つ",
                     "example_reading": "ふたつ",
                     "simple_reading": "ふた",
                     "meaning": "two things"
-                }
-            ] 
-        },
-        {
-            "id": 1,
-            "kanji": "二",
-            "values": [
-                {
-                    "example_value": "二つ",
-                    "example_reading": "ふたつ",
-                    "simple_reading": "ふた",
-                    "meaning": "two things"
-                }
-            ] 
-        },
-        {
-            "id": 1,
-            "kanji": "二",
-            "values": [
-                {
-                    "example_value": "二つ",
-                    "example_reading": "ふたつ",
-                    "simple_reading": "ふた",
-                    "meaning": "two things"
-                }
-            ] 
-        },
-        {
-            "id": 1,
-            "kanji": "二",
-            "values": [
-                {
-                    "example_value": "二つ",
-                    "example_reading": "ふたつ",
-                    "simple_reading": "ふた",
-                    "meaning": "two things"
-                }
-            ] 
-        },
-        {
-            "id": 0,
-            "kanji": "一",
-            "values": [
-                {
-                    "example_value": "一つ",
-                    "example_reading": "ひとつ",
-                    "simple_reading": "ひと",
-                    "meaning": "one thing"
                 },
                 {
-                    "example_value": "一",
-                    "example_reading": "いち",
-                    "simple_reading": "いち",
-                    "meaning": "one"
-                }
-            ],
-            "kanji_meaning": "one"
-        },
-        {
-            "id": 0,
-            "kanji": "一",
-            "values": [
-                {
-                    "example_value": "一つ",
-                    "example_reading": "ひとつ",
-                    "simple_reading": "ひと",
-                    "meaning": "one thing"
+                    "example_value": "二月",
+                    "example_reading": "にがつ",
+                    "simple_reading": "に",
+                    "meaning": "Febrary"
                 },
                 {
-                    "example_value": "一",
-                    "example_reading": "いち",
-                    "simple_reading": "いち",
-                    "meaning": "one"
-                }
-            ],
-            "kanji_meaning": "one"
-        },
-        {
-            "id": 0,
-            "kanji": "一",
-            "values": [
-                {
-                    "example_value": "一つ",
-                    "example_reading": "ひとつ",
-                    "simple_reading": "ひと",
-                    "meaning": "one thing"
+                    "example_value": "二日",
+                    "example_reading": "ふつか",
+                    "simple_reading": "ふつ",
+                    "meaning": "second day of the month"
                 },
                 {
-                    "example_value": "一",
-                    "example_reading": "いち",
-                    "simple_reading": "いち",
-                    "meaning": "one"
-                }
-            ],
-            "kanji_meaning": "one"
-        },
-        {
-            "id": 0,
-            "kanji": "一",
-            "values": [
-                {
-                    "example_value": "一つ",
-                    "example_reading": "ひとつ",
-                    "simple_reading": "ひと",
-                    "meaning": "one thing"
+                    "example_value": "二階",
+                    "example_reading": "にかい",
+                    "simple_reading": "に",
+                    "meaning": "second floor"
                 },
                 {
-                    "example_value": "一",
-                    "example_reading": "いち",
-                    "simple_reading": "いち",
-                    "meaning": "one"
+                    "example_value": "二時",
+                    "example_reading": "にじ",
+                    "simple_reading": "に",
+                    "meaning": "two o'clock"
                 }
             ],
-            "kanji_meaning": "one"
-        },
-        {
-            "id": 0,
-            "kanji": "一",
-            "values": [
-                {
-                    "example_value": "一つ",
-                    "example_reading": "ひとつ",
-                    "simple_reading": "ひと",
-                    "meaning": "one thing"
-                },
-                {
-                    "example_value": "一",
-                    "example_reading": "いち",
-                    "simple_reading": "いち",
-                    "meaning": "one"
-                }
-            ],
-            "kanji_meaning": "one"
+            "kanji_meaning": "two"
         }
     ]
 }
