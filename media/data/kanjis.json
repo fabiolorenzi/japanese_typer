@@ -1096,606 +1096,600 @@
             "kanji_meaning": "inside"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 27,
+            "kanji": "小",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "小さい",
+                    "example_reading": "ちいさい",
+                    "simple_reading": "ちい",
+                    "meaning": "small"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "小学校",
+                    "example_reading": "しょうがっこう",
+                    "simple_reading": "しょう",
+                    "meaning": "elementary school"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "小川",
+                    "example_reading": "おがわ",
+                    "simple_reading": "お",
+                    "meaning": "brook, stream"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "小猫",
+                    "example_reading": "こねこ",
+                    "simple_reading": "こ",
+                    "meaning": "small cat"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "小説",
+                    "example_reading": "しょうせつ",
+                    "simple_reading": "しょう",
+                    "meaning": "a novel"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "大小",
+                    "example_reading": "だいしょう",
+                    "simple_reading": "しょう",
+                    "meaning": "big and small"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "small"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 28,
+            "kanji": "円",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "円い",
+                    "example_reading": "まるい",
+                    "simple_reading": "まる",
+                    "meaning": "round"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "百円",
+                    "example_reading": "ひゃくえん",
+                    "simple_reading": "えん",
+                    "meaning": "one hundred yen"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "円高",
+                    "example_reading": "えんだか",
+                    "simple_reading": "えん",
+                    "meaning": "high value of the yen"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "円形",
+                    "example_reading": "えんけい",
+                    "simple_reading": "えん",
+                    "meaning": "round, round shape"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "楕円",
+                    "example_reading": "だえん",
+                    "simple_reading": "えん",
+                    "meaning": "ellipse"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "半円",
+                    "example_reading": "はんえん",
+                    "simple_reading": "えん",
+                    "meaning": "half circle"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "round, yen"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 29,
+            "kanji": "人",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "人",
+                    "example_reading": "ひと",
+                    "simple_reading": "ひと",
+                    "meaning": "person"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "人間",
+                    "example_reading": "にんげん",
+                    "simple_reading": "にん",
+                    "meaning": "human"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "日本人",
+                    "example_reading": "にほんじん",
+                    "simple_reading": "じん",
+                    "meaning": "japanese person"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "成人",
+                    "example_reading": "せいじん",
+                    "simple_reading": "じん",
+                    "meaning": "an adult"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "恋人",
+                    "example_reading": "こいびと",
+                    "simple_reading": "びと",
+                    "meaning": "lover"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "宇宙人",
+                    "example_reading": "うちゅうじん",
+                    "simple_reading": "じん",
+                    "meaning": "space alien"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "person"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 30,
+            "kanji": "目",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "目",
+                    "example_reading": "め",
+                    "simple_reading": "め",
+                    "meaning": "eye"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "目てき",
+                    "example_reading": "もくてき",
+                    "simple_reading": "もく",
+                    "meaning": "purpose"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "目立つ",
+                    "example_reading": "めだつ",
+                    "simple_reading": "め",
+                    "meaning": "to stand out"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "目前",
+                    "example_reading": "もくぜん",
+                    "simple_reading": "もく",
+                    "meaning": "before one's eyes"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "目標",
+                    "example_reading": "もくひょう",
+                    "simple_reading": "もく",
+                    "meaning": "a goal"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "右目",
+                    "example_reading": "みぎめ",
+                    "simple_reading": "め",
+                    "meaning": "right me"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "right eye"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 31,
+            "kanji": "耳",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "耳",
+                    "example_reading": "みみ",
+                    "simple_reading": "みみ",
+                    "meaning": "ear"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "耳鳴り",
+                    "example_reading": "みみなり",
+                    "simple_reading": "みみ",
+                    "meaning": "ear ringing"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "パンの耳",
+                    "example_reading": "パンのみみ",
+                    "simple_reading": "みみ",
+                    "meaning": "bread crust"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "耳鼻科",
+                    "example_reading": "じびか",
+                    "simple_reading": "じ",
+                    "meaning": "ear, nose doctor"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "耳打ち",
+                    "example_reading": "みみうち",
+                    "simple_reading": "みみ",
+                    "meaning": "whisper in another ear"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "中耳炎",
+                    "example_reading": "ちゅうじえん",
+                    "simple_reading": "じ",
+                    "meaning": "ear infection"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "ear"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 32,
+            "kanji": "口",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "口",
+                    "example_reading": "くち",
+                    "simple_reading": "くち",
+                    "meaning": "mouth"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "口臭",
+                    "example_reading": "こうしゅう",
+                    "simple_reading": "こう",
+                    "meaning": "foul breath"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "人口",
+                    "example_reading": "じんこう",
+                    "simple_reading": "こう",
+                    "meaning": "population"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "出口",
+                    "example_reading": "でぐち",
+                    "simple_reading": "ぐち",
+                    "meaning": "exit"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "口調",
+                    "example_reading": "くちょう",
+                    "simple_reading": "く",
+                    "meaning": "tone of voice"
                 },
                 {
-                    "example_value": "火力",
+                    "example_value": "入り口",
                     "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "simple_reading": "ぐち",
+                    "meaning": "entrance"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "mouth"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 33,
+            "kanji": "手",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "手",
+                    "example_reading": "て",
+                    "simple_reading": "て",
+                    "meaning": "hand"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "握手",
+                    "example_reading": "あくしゅ",
+                    "simple_reading": "しゅ",
+                    "meaning": "handshake"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "手紙",
+                    "example_reading": "てがみ",
+                    "simple_reading": "て",
+                    "meaning": "a letter"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "素手",
+                    "example_reading": "すで",
+                    "simple_reading": "で",
+                    "meaning": "unarmed bade hands"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
-                },
-                {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "空手",
+                    "example_reading": "からて",
+                    "simple_reading": "て",
+                    "meaning": "karate"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "hand"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 34,
+            "kanji": "足",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "足",
+                    "example_reading": "あし",
+                    "simple_reading": "あし",
+                    "meaning": "leg"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "足首",
+                    "example_reading": "あしくび",
+                    "simple_reading": "あし",
+                    "meaning": "angle"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "遠足",
+                    "example_reading": "えんそく",
+                    "simple_reading": "そく",
+                    "meaning": "excursion"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "足音",
+                    "example_reading": "あしおと",
+                    "simple_reading": "あし",
+                    "meaning": "footsteps"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "足りる",
+                    "example_reading": "たりる",
+                    "simple_reading": "た",
+                    "meaning": "to have enough"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "三足",
+                    "example_reading": "さんそく",
+                    "simple_reading": "そく",
+                    "meaning": "three pairs"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "leg"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 35,
+            "kanji": "力",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "力",
+                    "example_reading": "ちから",
+                    "simple_reading": "ちから",
+                    "meaning": "power, energy, force"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "電力",
+                    "example_reading": "でんりょく",
+                    "simple_reading": "りょく",
+                    "meaning": "electric power"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "人力車",
+                    "example_reading": "じんりきしゃ",
+                    "simple_reading": "りき",
+                    "meaning": "richshaw"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "馬力",
+                    "example_reading": "ばりき",
+                    "simple_reading": "りき",
+                    "meaning": "horse power"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "力仕事",
+                    "example_reading": "ちからしごと",
+                    "simple_reading": "ちから",
+                    "meaning": "physical work"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "底力",
+                    "example_reading": "そこちから",
+                    "simple_reading": "ちから",
+                    "meaning": "reserve strength"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "power, energy"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 36,
+            "kanji": "立",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "立つ",
+                    "example_reading": "たつ",
+                    "simple_reading": "た",
+                    "meaning": "to stand"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "立場",
+                    "example_reading": "たちば",
+                    "simple_reading": "たち",
+                    "meaning": "position"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "独立",
+                    "example_reading": "どくりつ",
+                    "simple_reading": "りつ",
+                    "meaning": "independence"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "私立",
+                    "example_reading": "しりつ",
+                    "simple_reading": "りつ",
+                    "meaning": "private (school)"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "立秋",
+                    "example_reading": "りっしゅう",
+                    "simple_reading": "りっ",
+                    "meaning": "the begin of autumn"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "役立つ",
+                    "example_reading": "やくだつ",
+                    "simple_reading": "だ",
+                    "meaning": "tabe to use"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "to stand"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 37,
+            "kanji": "男",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "男",
+                    "example_reading": "おとこ",
+                    "simple_reading": "おとこ",
+                    "meaning": "boy, man"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "男性",
+                    "example_reading": "だんせい",
+                    "simple_reading": "だん",
+                    "meaning": "male"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "長男",
+                    "example_reading": "ちょうなん",
+                    "simple_reading": "なん",
+                    "meaning": "first born son"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "次男",
+                    "example_reading": "じなん",
+                    "simple_reading": "なん",
+                    "meaning": "second born son"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "男女",
+                    "example_reading": "だんじょ",
+                    "simple_reading": "だん",
+                    "meaning": "boy and girl"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "男のに",
+                    "example_reading": "おとこのに",
+                    "simple_reading": "おとこ",
+                    "meaning": "a boy"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "boy, man"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 38,
+            "kanji": "女",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "女",
+                    "example_reading": "おんな",
+                    "simple_reading": "おんな",
+                    "meaning": "girl, woman"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "女ごころ",
+                    "example_reading": "おんあごころ",
+                    "simple_reading": "おんな",
+                    "meaning": "woman's mind"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "女房",
+                    "example_reading": "にょうぼう",
+                    "simple_reading": "にょう",
+                    "meaning": "speakers wife"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "女性",
+                    "example_reading": "じょせい",
+                    "simple_reading": "じょ",
+                    "meaning": "female"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "女神",
+                    "example_reading": "めがみ",
+                    "simple_reading": "め",
+                    "meaning": "goddess"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "長女",
+                    "example_reading": "ちょうじょ",
+                    "simple_reading": "じょ",
+                    "meaning": "first born daughter"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "girl, woman"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 39,
+            "kanji": "子",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "子",
+                    "example_reading": "こ",
+                    "simple_reading": "こ",
+                    "meaning": "child"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "子供",
+                    "example_reading": "こども",
+                    "simple_reading": "こ",
+                    "meaning": "child, children"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "親子",
+                    "example_reading": "おやこ",
+                    "simple_reading": "こ",
+                    "meaning": "parent and child"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "養子",
+                    "example_reading": "ようし",
+                    "simple_reading": "し",
+                    "meaning": "adopted child"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "子犬",
+                    "example_reading": "こいぬ",
+                    "simple_reading": "こ",
+                    "meaning": "puppy"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "扇子",
+                    "example_reading": "せんす",
+                    "simple_reading": "す",
+                    "meaning": "folding japanese fan"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "child"
         },
         {
-            "id": 15,
-            "kanji": "火",
+            "id": 40,
+            "kanji": "生",
             "values": [
                 {
-                    "example_value": "火",
-                    "example_reading": "ひ",
-                    "simple_reading": "ひ",
-                    "meaning": "fire"
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
                 },
                 {
-                    "example_value": "火曜日",
-                    "example_reading": "かようび",
-                    "simple_reading": "か",
-                    "meaning": "Tuesday"
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
                 },
                 {
-                    "example_value": "花火",
-                    "example_reading": "はなび",
-                    "simple_reading": "び",
-                    "meaning": "fireworks"
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
                 },
                 {
-                    "example_value": "火事",
-                    "example_reading": "かじ",
-                    "simple_reading": "か",
-                    "meaning": "a fire"
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
                 },
                 {
-                    "example_value": "火星",
-                    "example_reading": "かせい",
-                    "simple_reading": "か",
-                    "meaning": "a mark"
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
                 },
                 {
-                    "example_value": "火力",
-                    "example_reading": "かりょく",
-                    "simple_reading": "か",
-                    "meaning": "thermal power"
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
                 }
             ],
-            "kanji_meaning": "fire"
+            "kanji_meaning": "raw"
         }
     ]
 }
