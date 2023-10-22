@@ -1690,6 +1690,1666 @@
                 }
             ],
             "kanji_meaning": "raw"
+        },
+        {
+            "id": 41,
+            "kanji": "天",
+            "values": [
+                {
+                    "example_value": "天",
+                    "example_reading": "てん",
+                    "simple_reading": "てん",
+                    "meaning": "heaven"
+                },
+                {
+                    "example_value": "天気",
+                    "example_reading": "てんき",
+                    "simple_reading": "てん",
+                    "meaning": "weather"
+                },
+                {
+                    "example_value": "天の川",
+                    "example_reading": "あまのがあわ",
+                    "simple_reading": "あま",
+                    "meaning": "the Milky Way"
+                },
+                {
+                    "example_value": "雨天",
+                    "example_reading": "うてん",
+                    "simple_reading": "てん",
+                    "meaning": "rainy weather"
+                },
+                {
+                    "example_value": "天才",
+                    "example_reading": "てんさい",
+                    "simple_reading": "てん",
+                    "meaning": "genius"
+                },
+                {
+                    "example_value": "天国",
+                    "example_reading": "てんごく",
+                    "simple_reading": "てん",
+                    "meaning": "heaven"
+                }
+            ],
+            "kanji_meaning": "heaven"
+        },
+        {
+            "id": 42,
+            "kanji": "空",
+            "values": [
+                {
+                    "example_value": "空",
+                    "example_reading": "そら",
+                    "simple_reading": "そら",
+                    "meaning": "sky"
+                },
+                {
+                    "example_value": "空港",
+                    "example_reading": "くうこう",
+                    "simple_reading": "くう",
+                    "meaning": "airport"
+                },
+                {
+                    "example_value": "空",
+                    "example_reading": "から",
+                    "simple_reading": "から",
+                    "meaning": "empty"
+                },
+                {
+                    "example_value": "空き家",
+                    "example_reading": "あきや",
+                    "simple_reading": "あ",
+                    "meaning": "empty house"
+                },
+                {
+                    "example_value": "空き缶",
+                    "example_reading": "あきかん",
+                    "simple_reading": "あ",
+                    "meaning": "empty can"
+                },
+                {
+                    "example_value": "青空",
+                    "example_reading": "あおぞら",
+                    "simple_reading": "ぞら",
+                    "meaning": "blue sky"
+                }
+            ],
+            "kanji_meaning": "sky, empty"
+        },
+        {
+            "id": 43,
+            "kanji": "気",
+            "values": [
+                {
+                    "example_value": "気",
+                    "example_reading": "き",
+                    "simple_reading": "き",
+                    "meaning": "spirit, mood"
+                },
+                {
+                    "example_value": "元気",
+                    "example_reading": "げんき",
+                    "simple_reading": "き",
+                    "meaning": "stamina, vigor, health"
+                },
+                {
+                    "example_value": "気配",
+                    "example_reading": "けがい",
+                    "simple_reading": "け",
+                    "meaning": "indication"
+                },
+                {
+                    "example_value": "気持ち",
+                    "example_reading": "きもち",
+                    "simple_reading": "き",
+                    "meaning": "feeling good"
+                },
+                {
+                    "example_value": "空気",
+                    "example_reading": "くうき",
+                    "simple_reading": "き",
+                    "meaning": "air"
+                },
+                {
+                    "example_value": "気合",
+                    "example_reading": "きあい",
+                    "simple_reading": "き",
+                    "meaning": "fighting spirit"
+                }
+            ],
+            "kanji_meaning": "spirit, mood"
+        },
+        {
+            "id": 44,
+            "kanji": "雨",
+            "values": [
+                {
+                    "example_value": "雨",
+                    "example_reading": "あめ",
+                    "simple_reading": "あめ",
+                    "meaning": "rain"
+                },
+                {
+                    "example_value": "大雨",
+                    "example_reading": "おおあめ",
+                    "simple_reading": "あめ",
+                    "meaning": "heavy rain"
+                },
+                {
+                    "example_value": "雨雲",
+                    "example_reading": "あまぐも",
+                    "simple_reading": "あま",
+                    "meaning": "rain clouds"
+                },
+                {
+                    "example_value": "雨蛙",
+                    "example_reading": "あまがえる",
+                    "simple_reading": "あま",
+                    "meaning": "tree frog"
+                },
+                {
+                    "example_value": "雨量",
+                    "example_reading": "うりょう",
+                    "simple_reading": "う",
+                    "meaning": "amount of rain"
+                },
+                {
+                    "example_value": "雨天",
+                    "example_reading": "うてん",
+                    "simple_reading": "う",
+                    "meaning": "rainy weather"
+                }
+            ],
+            "kanji_meaning": "rain"
+        },
+        {
+            "id": 45,
+            "kanji": "山",
+            "values": [
+                {
+                    "example_value": "山",
+                    "example_reading": "やま",
+                    "simple_reading": "やま",
+                    "meaning": "mountain"
+                },
+                {
+                    "example_value": "富士山",
+                    "example_reading": "ふじさん",
+                    "simple_reading": "さん",
+                    "meaning": "mount Fuji"
+                },
+                {
+                    "example_value": "山脈",
+                    "example_reading": "さんみゃく",
+                    "simple_reading": "さん",
+                    "meaning": "mountain range"
+                },
+                {
+                    "example_value": "山村",
+                    "example_reading": "さんそん",
+                    "simple_reading": "さん",
+                    "meaning": "mountain village"
+                },
+                {
+                    "example_value": "山登り",
+                    "example_reading": "やまのぼり",
+                    "simple_reading": "やま",
+                    "meaning": "mountain climbing"
+                },
+                {
+                    "example_value": "火山",
+                    "example_reading": "かざん",
+                    "simple_reading": "ざん",
+                    "meaning": "volcano"
+                }
+            ],
+            "kanji_meaning": "mountain"
+        },
+        {
+            "id": 46,
+            "kanji": "川",
+            "values": [
+                {
+                    "example_value": "川",
+                    "example_reading": "かわ",
+                    "simple_reading": "かわ",
+                    "meaning": "river"
+                },
+                {
+                    "example_value": "河川",
+                    "example_reading": "かせん",
+                    "simple_reading": "せん",
+                    "meaning": "rivers system"
+                },
+                {
+                    "example_value": "小川",
+                    "example_reading": "おがわ",
+                    "simple_reading": "がわ",
+                    "meaning": "brook, stream"
+                },
+                {
+                    "example_value": "コロラド川",
+                    "example_reading": "ころらどがわ",
+                    "simple_reading": "がわ",
+                    "meaning": "Colorado river"
+                },
+                {
+                    "example_value": "川上",
+                    "example_reading": "かわかみ",
+                    "simple_reading": "かわ",
+                    "meaning": "upper reaches of a river"
+                },
+                {
+                    "example_value": "川下",
+                    "example_reading": "かわした",
+                    "simple_reading": "かわ",
+                    "meaning": "down stream"
+                }
+            ],
+            "kanji_meaning": "river"
+        },
+        {
+            "id": 47,
+            "kanji": "林",
+            "values": [
+                {
+                    "example_value": "林",
+                    "example_reading": "はやし",
+                    "simple_reading": "はやし",
+                    "meaning": "woods, forest"
+                },
+                {
+                    "example_value": "密林",
+                    "example_reading": "みつりん",
+                    "simple_reading": "りん",
+                    "meaning": "jungle, thick forest"
+                },
+                {
+                    "example_value": "山林",
+                    "example_reading": "さんりん",
+                    "simple_reading": "りん",
+                    "meaning": "mountain forest"
+                },
+                {
+                    "example_value": "人工林",
+                    "example_reading": "じんこうりん",
+                    "simple_reading": "りん",
+                    "meaning": "planted forest"
+                },
+                {
+                    "example_value": "林檎",
+                    "example_reading": "りんご",
+                    "simple_reading": "りん",
+                    "meaning": "apple"
+                },
+                {
+                    "example_value": "梅林",
+                    "example_reading": "ばいりん",
+                    "simple_reading": "りん",
+                    "meaning": "plum grove"
+                }
+            ],
+            "kanji_meaning": "woods, forest"
+        },
+        {
+            "id": 48,
+            "kanji": "森",
+            "values": [
+                {
+                    "example_value": "森",
+                    "example_reading": "もり",
+                    "simple_reading": "もり",
+                    "meaning": "forest, woods"
+                },
+                {
+                    "example_value": "森林",
+                    "example_reading": "しんりん",
+                    "simple_reading": "しん",
+                    "meaning": "forest, woods"
+                },
+                {
+                    "example_value": "青森県",
+                    "example_reading": "あおもりけん",
+                    "simple_reading": "もり",
+                    "meaning": "Aomori prefecture"
+                },
+                {
+                    "example_value": "森の中",
+                    "example_reading": "もりのなか",
+                    "simple_reading": "もり",
+                    "meaning": "in the forest"
+                }
+            ],
+            "kanji_meaning": "forest, woods"
+        },
+        {
+            "id": 49,
+            "kanji": "石",
+            "values": [
+                {
+                    "example_value": "石",
+                    "example_reading": "いし",
+                    "simple_reading": "いし",
+                    "meaning": "stone"
+                },
+                {
+                    "example_value": "石材",
+                    "example_reading": "せきざい",
+                    "simple_reading": "せき",
+                    "meaning": "stone materials"
+                },
+                {
+                    "example_value": "磁石",
+                    "example_reading": "じしゃく",
+                    "simple_reading": "しゃく",
+                    "meaning": "magnet"
+                },
+                {
+                    "example_value": "宝石",
+                    "example_reading": "ほうせき",
+                    "simple_reading": "せき",
+                    "meaning": "jewel stone"
+                },
+                {
+                    "example_value": "一石二鳥",
+                    "example_reading": "いっせきにちょう",
+                    "simple_reading": "せき",
+                    "meaning": "two birds with one stone"
+                }
+            ],
+            "kanji_meaning": "stone"
+        },
+        {
+            "id": 50,
+            "kanji": "花",
+            "values": [
+                {
+                    "example_value": "花",
+                    "example_reading": "はな",
+                    "simple_reading": "はな",
+                    "meaning": "flower"
+                },
+                {
+                    "example_value": "花壇",
+                    "example_reading": "かだん",
+                    "simple_reading": "か",
+                    "meaning": "flower bed"
+                },
+                {
+                    "example_value": "草花",
+                    "example_reading": "くさばな",
+                    "simple_reading": "ばな",
+                    "meaning": "flowering plant"
+                },
+                {
+                    "example_value": "花火",
+                    "example_reading": "はなび",
+                    "simple_reading": "はな",
+                    "meaning": "fireworks"
+                },
+                {
+                    "example_value": "火花",
+                    "example_reading": "ひばな",
+                    "simple_reading": "ばな",
+                    "meaning": "sparit"
+                },
+                {
+                    "example_value": "生け花",
+                    "example_reading": "いけばな",
+                    "simple_reading": "ばな",
+                    "meaning": "flower arrangement"
+                }
+            ],
+            "kanji_meaning": "flower"
+        },
+        {
+            "id": 51,
+            "kanji": "犬",
+            "values": [
+                {
+                    "example_value": "犬",
+                    "example_reading": "いぬ",
+                    "simple_reading": "いぬ",
+                    "meaning": "dog"
+                },
+                {
+                    "example_value": "犬歯",
+                    "example_reading": "けんし",
+                    "simple_reading": "けん",
+                    "meaning": "cuspid tooth"
+                },
+                {
+                    "example_value": "愛犬",
+                    "example_reading": "あいけん",
+                    "simple_reading": "けん",
+                    "meaning": "pet dog"
+                },
+                {
+                    "example_value": "野良犬",
+                    "example_reading": "のらいぬ",
+                    "simple_reading": "いぬ",
+                    "meaning": "stray dog"
+                },
+                {
+                    "example_value": "犬小屋",
+                    "example_reading": "いぬごや",
+                    "simple_reading": "いぬ",
+                    "meaning": "doghouse"
+                },
+                {
+                    "example_value": "盲導犬",
+                    "example_reading": "もうどうけん",
+                    "simple_reading": "けん",
+                    "meaning": "seeing-eye dog"
+                }
+            ],
+            "kanji_meaning": "dog"
+        },
+        {
+            "id": 52,
+            "kanji": "虫",
+            "values": [
+                {
+                    "example_value": "虫",
+                    "example_reading": "むし",
+                    "simple_reading": "むし",
+                    "meaning": "bug, insect"
+                },
+                {
+                    "example_value": "虫歯",
+                    "example_reading": "むしば",
+                    "simple_reading": "むし",
+                    "meaning": "cavity, bad tooth"
+                },
+                {
+                    "example_value": "幼虫",
+                    "example_reading": "ようちゅう",
+                    "simple_reading": "ちゅう",
+                    "meaning": "larva"
+                },
+                {
+                    "example_value": "害虫",
+                    "example_reading": "がいちゅう",
+                    "simple_reading": "ちゅう",
+                    "meaning": "harmful bug"
+                },
+                {
+                    "example_value": "天道虫",
+                    "example_reading": "てんとうむし",
+                    "simple_reading": "むし",
+                    "meaning": "lady bug"
+                },
+                {
+                    "example_value": "毛虫",
+                    "example_reading": "けむし",
+                    "simple_reading": "むし",
+                    "meaning": "caterpillar"
+                }
+            ],
+            "kanji_meaning": "bug, insect"
+        },
+        {
+            "id": 53,
+            "kanji": "町",
+            "values": [
+                {
+                    "example_value": "町",
+                    "example_reading": "まち",
+                    "simple_reading": "まち",
+                    "meaning": "town"
+                },
+                {
+                    "example_value": "町外れ",
+                    "example_reading": "まちはずれ",
+                    "simple_reading": "まち",
+                    "meaning": "outskirts of town"
+                },
+                {
+                    "example_value": "町会",
+                    "example_reading": "ちょうかい",
+                    "simple_reading": "ちょう",
+                    "meaning": "town council, town meeting"
+                },
+                {
+                    "example_value": "下町",
+                    "example_reading": "したまち",
+                    "simple_reading": "まち",
+                    "meaning": "downtown"
+                },
+                {
+                    "example_value": "町長",
+                    "example_reading": "ちょうちょう",
+                    "simple_reading": "ちょう",
+                    "meaning": "head of town"
+                }
+            ],
+            "kanji_meaning": "town"
+        },
+        {
+            "id": 54,
+            "kanji": "村",
+            "values": [
+                {
+                    "example_value": "村",
+                    "example_reading": "むら",
+                    "simple_reading": "むら",
+                    "meaning": "village"
+                },
+                {
+                    "example_value": "村長",
+                    "example_reading": "そんちょう",
+                    "simple_reading": "そん",
+                    "meaning": "village chief"
+                },
+                {
+                    "example_value": "農村",
+                    "example_reading": "のうそん",
+                    "simple_reading": "そん",
+                    "meaning": "farming village"
+                },
+                {
+                    "example_value": "漁村",
+                    "example_reading": "ぎょそん",
+                    "simple_reading": "そん",
+                    "meaning": "fishing village"
+                },
+                {
+                    "example_value": "村人",
+                    "example_reading": "むらびと",
+                    "simple_reading": "むら",
+                    "meaning": "villager"
+                },
+                {
+                    "example_value": "山村",
+                    "example_reading": "さんそん",
+                    "simple_reading": "そん",
+                    "meaning": "mountain village"
+                }
+            ],
+            "kanji_meaning": "village"
+        },
+        {
+            "id": 55,
+            "kanji": "田",
+            "values": [
+                {
+                    "example_value": "田んぼ",
+                    "example_reading": "たんぼ",
+                    "simple_reading": "た",
+                    "meaning": "rice paddy field"
+                },
+                {
+                    "example_value": "油田",
+                    "example_reading": "ゆでん",
+                    "simple_reading": "でん",
+                    "meaning": "oil field"
+                }
+            ],
+            "kanji_meaning": "rice paddy, field"
+        },
+        {
+            "id": 56,
+            "kanji": "夕",
+            "values": [
+                {
+                    "example_value": "夕方",
+                    "example_reading": "ゆうがた",
+                    "simple_reading": "ゆう",
+                    "meaning": "evening"
+                },
+                {
+                    "example_value": "夕べ",
+                    "example_reading": "ゆうべ",
+                    "simple_reading": "ゆう",
+                    "meaning": "last night"
+                },
+                {
+                    "example_value": "夕日",
+                    "example_reading": "ゆうひ",
+                    "simple_reading": "ゆう",
+                    "meaning": "setting sun"
+                },
+                {
+                    "example_value": "夕食",
+                    "example_reading": "ゆうしょく",
+                    "simple_reading": "ゆう",
+                    "meaning": "dinner"
+                }
+            ],
+            "kanji_meaning": "evening"
+        },
+        {
+            "id": 57,
+            "kanji": "赤",
+            "values": [
+                {
+                    "example_value": "赤",
+                    "example_reading": "あか",
+                    "simple_reading": "あか",
+                    "meaning": "red"
+                },
+                {
+                    "example_value": "赤ちゃん",
+                    "example_reading": "あかちゃん",
+                    "simple_reading": "あか",
+                    "meaning": "baby"
+                },
+                {
+                    "example_value": "赤十字",
+                    "example_reading": "せきじゅうじ",
+                    "simple_reading": "せき",
+                    "meaning": "the Red Cross"
+                },
+                {
+                    "example_value": "赤道",
+                    "example_reading": "せきどう",
+                    "simple_reading": "せき",
+                    "meaning": "the Equator"
+                },
+                {
+                    "example_value": "赤字",
+                    "example_reading": "あかじ",
+                    "simple_reading": "あか",
+                    "meaning": "in red, in debt"
+                },
+                {
+                    "example_value": "赤潮",
+                    "example_reading": "あかしお",
+                    "simple_reading": "あか",
+                    "meaning": "red tide"
+                }
+            ],
+            "kanji_meaning": "red"
+        },
+        {
+            "id": 58,
+            "kanji": "青",
+            "values": [
+                {
+                    "example_value": "青",
+                    "example_reading": "あお",
+                    "simple_reading": "あお",
+                    "meaning": "blue"
+                },
+                {
+                    "example_value": "青年",
+                    "example_reading": "せいねん",
+                    "simple_reading": "せい",
+                    "meaning": "young man"
+                },
+                {
+                    "example_value": "青葉",
+                    "example_reading": "あおば",
+                    "simple_reading": "あお",
+                    "meaning": "green leaves"
+                },
+                {
+                    "example_value": "青信号",
+                    "example_reading": "あおしんごう",
+                    "simple_reading": "あお",
+                    "meaning": "green light"
+                },
+                {
+                    "example_value": "青空",
+                    "example_reading": "あおぞら",
+                    "simple_reading": "あお",
+                    "meaning": "blue sky"
+                },
+                {
+                    "example_value": "青春",
+                    "example_reading": "あおしゅん",
+                    "simple_reading": "あお",
+                    "meaning": "youth, adolescent"
+                }
+            ],
+            "kanji_meaning": "blue"
+        },
+        {
+            "id": 59,
+            "kanji": "白",
+            "values": [
+                {
+                    "example_value": "白",
+                    "example_reading": "しろ",
+                    "simple_reading": "しろ",
+                    "meaning": "white"
+                },
+                {
+                    "example_value": "白人",
+                    "example_reading": "はくじん",
+                    "simple_reading": "はく",
+                    "meaning": "caucasian"
+                },
+                {
+                    "example_value": "白々しい",
+                    "example_reading": "しらじらしい",
+                    "simple_reading": "しら",
+                    "meaning": "plastic"
+                },
+                {
+                    "example_value": "告白",
+                    "example_reading": "こくはく",
+                    "simple_reading": "はく",
+                    "meaning": "confession"
+                },
+                {
+                    "example_value": "面白い",
+                    "example_reading": "おもしろい",
+                    "simple_reading": "しろ",
+                    "meaning": "interesting"
+                },
+                {
+                    "example_value": "漂白際",
+                    "example_reading": "ひょうはくさい",
+                    "simple_reading": "はく",
+                    "meaning": "bleach"
+                }
+            ],
+            "kanji_meaning": "white"
+        },
+        {
+            "id": 60,
+            "kanji": "見",
+            "values": [
+                {
+                    "example_value": "見る",
+                    "example_reading": "みる",
+                    "simple_reading": "み",
+                    "meaning": "to look"
+                },
+                {
+                    "example_value": "見せる",
+                    "example_reading": "みせる",
+                    "simple_reading": "み",
+                    "meaning": "to show"
+                },
+                {
+                    "example_value": "意見",
+                    "example_reading": "いけん",
+                    "simple_reading": "けん",
+                    "meaning": "opinion"
+                },
+                {
+                    "example_value": "外見",
+                    "example_reading": "がいけん",
+                    "simple_reading": "けん",
+                    "meaning": "outward appearance"
+                },
+                {
+                    "example_value": "見学",
+                    "example_reading": "けんがく",
+                    "simple_reading": "けん",
+                    "meaning": "study by observation"
+                },
+                {
+                    "example_value": "見本",
+                    "example_reading": "みほん",
+                    "simple_reading": "み",
+                    "meaning": "sample"
+                }
+            ],
+            "kanji_meaning": "to look"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
+        },
+        {
+            "id": 40,
+            "kanji": "生",
+            "values": [
+                {
+                    "example_value": "生",
+                    "example_reading": "なま",
+                    "simple_reading": "なま",
+                    "meaning": "raw"
+                },
+                {
+                    "example_value": "生徒",
+                    "example_reading": "せいと",
+                    "simple_reading": "せい",
+                    "meaning": "pupil, student"
+                },
+                {
+                    "example_value": "先生",
+                    "example_reading": "せんせい",
+                    "simple_reading": "せい",
+                    "meaning": "teacher"
+                },
+                {
+                    "example_value": "生える",
+                    "example_reading": "はえる",
+                    "simple_reading": "は",
+                    "meaning": "to grow"
+                },
+                {
+                    "example_value": "生きる",
+                    "example_reading": "いきる",
+                    "simple_reading": "い",
+                    "meaning": "to live"
+                },
+                {
+                    "example_value": "生まれる",
+                    "example_reading": "うまれる",
+                    "simple_reading": "う",
+                    "meaning": "to be born"
+                }
+            ],
+            "kanji_meaning": "raw"
         }
     ]
 }
