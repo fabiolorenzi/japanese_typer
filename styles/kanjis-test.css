@@ -48,9 +48,23 @@
     margin: 10px auto;
 }
 
+.kanjis_test_single_target {
+    display: block;
+    width: 50px;
+    text-align: left;
+}
+
+.kanjis_test_single_target h1 {
+    color: #000000;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+    width: 150px;
+}
+
 .kanjis_test_single_label {
     display: block;
-    width: 150px;
+    width: 120px;
     text-align: center;
 }
 
@@ -59,7 +73,7 @@
     font-size: 11px;
     font-weight: 400;
     margin: 0;
-    width: 150px;
+    width: 120px;
 }
 
 .kanjis_test_single_label h1 {
@@ -67,7 +81,7 @@
     font-size: 18px;
     font-weight: 500;
     margin: 0;
-    width: 150px;
+    width: 120px;
 }
 
 .kanjis_test_single input {

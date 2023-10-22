@@ -1,11 +1,16 @@
 let kChecker = [];
 
-function renderKanjis(kanjis, difficulty) {
+function renderKanjis(kanjis, totalKanjis, randomSequence, difficulty) {
     kChecker = kanjis;
+    console.log(totalKanjis);
+    console.log(randomSequence);
     document.getElementById("kanjis_test_bottom").innerHTML = `
         <div class="kanjis_test_bottom_body">
             <div class="kanjis_test_bottom_left">
                 <div class="kanjis_test_single">
+                    <div class="kanjis_test_single_target">
+                        <h1>${totalKanjis[randomSequence[0]].kanji}</h1>
+                    </div>
                     <div class="kanjis_test_single_label">
                         ${difficulty == 0 ? `<p>${kanjis[0].example_reading}</p>` : ""}
                         <h1 id="kanjis_label_one">${kanjis[0].example_value}</h1>
@@ -14,6 +19,9 @@ function renderKanjis(kanjis, difficulty) {
                     <h2>${kanjis[0].meaning}</h2>
                 </div>
                 <div class="kanjis_test_single">
+                    <div class="kanjis_test_single_target">
+                        <h1>${totalKanjis[randomSequence[1]].kanji}</h1>
+                    </div>
                     <div class="kanjis_test_single_label">
                         ${difficulty == 0 ? `<p>${kanjis[1].example_reading}</p>` : ""}
                         <h1 id="kanjis_label_two">${kanjis[1].example_value}</h1>
@@ -22,6 +30,9 @@ function renderKanjis(kanjis, difficulty) {
                     <h2>${kanjis[1].meaning}</h2>
                 </div>
                 <div class="kanjis_test_single">
+                    <div class="kanjis_test_single_target">
+                        <h1>${totalKanjis[randomSequence[2]].kanji}</h1>
+                    </div>
                     <div class="kanjis_test_single_label">
                         ${difficulty == 0 ? `<p>${kanjis[2].example_reading}</p>` : ""}
                         <h1 id="kanjis_label_three">${kanjis[2].example_value}</h1>
@@ -30,6 +41,9 @@ function renderKanjis(kanjis, difficulty) {
                     <h2>${kanjis[2].meaning}</h2>
                 </div>
                 <div class="kanjis_test_single">
+                    <div class="kanjis_test_single_target">
+                        <h1>${totalKanjis[randomSequence[3]].kanji}</h1>
+                    </div>
                     <div class="kanjis_test_single_label">
                         ${difficulty == 0 ? `<p>${kanjis[3].example_reading}</p>` : ""}
                         <h1 id="kanjis_label_four">${kanjis[3].example_value}</h1>
@@ -38,6 +52,9 @@ function renderKanjis(kanjis, difficulty) {
                     <h2>${kanjis[3].meaning}</h2>
                 </div>
                 <div class="kanjis_test_single">
+                    <div class="kanjis_test_single_target">
+                        <h1>${totalKanjis[randomSequence[4]].kanji}</h1>
+                    </div>
                     <div class="kanjis_test_single_label">
                         ${difficulty == 0 ? `<p>${kanjis[4].example_reading}</p>` : ""}
                         <h1 id="kanjis_label_five">${kanjis[4].example_value}</h1>
@@ -48,6 +65,9 @@ function renderKanjis(kanjis, difficulty) {
             </div>
             <div class="kanjis_test_bottom_right">
                 <div class="kanjis_test_single">
+                    <div class="kanjis_test_single_target">
+                        <h1>${totalKanjis[randomSequence[5]].kanji}</h1>
+                    </div>
                     <div class="kanjis_test_single_label">
                         ${difficulty == 0 ? `<p>${kanjis[5].example_reading}</p>` : ""}
                         <h1 id="kanjis_label_six">${kanjis[5].example_value}</h1>
@@ -56,6 +76,9 @@ function renderKanjis(kanjis, difficulty) {
                     <h2>${kanjis[5].meaning}</h2>
                 </div>
                 <div class="kanjis_test_single">
+                    <div class="kanjis_test_single_target">
+                        <h1>${totalKanjis[randomSequence[6]].kanji}</h1>
+                    </div>
                     <div class="kanjis_test_single_label">
                         ${difficulty == 0 ? `<p>${kanjis[6].example_reading}</p>` : ""}
                         <h1 id="kanjis_label_seven">${kanjis[6].example_value}</h1>
@@ -64,6 +87,9 @@ function renderKanjis(kanjis, difficulty) {
                     <h2>${kanjis[6].meaning}</h2>
                 </div>
                 <div class="kanjis_test_single">
+                    <div class="kanjis_test_single_target">
+                        <h1>${totalKanjis[randomSequence[7]].kanji}</h1>
+                    </div>
                     <div class="kanjis_test_single_label">
                         ${difficulty == 0 ? `<p>${kanjis[7].example_reading}</p>` : ""}
                         <h1 id="kanjis_label_eight">${kanjis[7].example_value}</h1>
@@ -72,6 +98,9 @@ function renderKanjis(kanjis, difficulty) {
                     <h2>${kanjis[7].meaning}</h2>
                 </div>
                 <div class="kanjis_test_single">
+                    <div class="kanjis_test_single_target">
+                        <h1>${totalKanjis[randomSequence[8]].kanji}</h1>
+                    </div>
                     <div class="kanjis_test_single_label">
                         ${difficulty == 0 ? `<p>${kanjis[8].example_reading}</p>` : ""}
                         <h1 id="kanjis_label_nine">${kanjis[8].example_value}</h1>
@@ -80,6 +109,9 @@ function renderKanjis(kanjis, difficulty) {
                     <h2>${kanjis[8].meaning}</h2>
                 </div>
                 <div class="kanjis_test_single">
+                    <div class="kanjis_test_single_target">
+                        <h1>${totalKanjis[randomSequence[9]].kanji}</h1>
+                    </div>
                     <div class="kanjis_test_single_label">
                         ${difficulty == 0 ? `<p>${kanjis[9].example_reading}</p>` : ""}
                         <h1 id="kanjis_label_ten">${kanjis[9].example_value}</h1>
@@ -150,7 +182,7 @@ document.addEventListener("DOMContentLoaded", async function() {
         dataFiltered.push(dataPreFiltered[x].values[temp]);
     };
 
-    renderKanjis(dataFiltered, difficulty);
+    renderKanjis(dataFiltered, kanjisJson.value, randomSequence, difficulty);
     
     document.getElementById("footer_link").innerText = "Developed by " + versionJson.author;
     document.getElementById("footer_link").href = versionJson.github_url;
