@@ -86,6 +86,559 @@
                 }
             ],
             "kanji_meaning": "two"
+        },
+        {
+            "id": 3,
+            "kanji": "三",
+            "values": [
+                {
+                    "example_value": "三",
+                    "example_reading": "さん",
+                    "simple_reading": "さん",
+                    "meaning": "three"
+                },
+                {
+                    "example_value": "三月",
+                    "example_reading": "さんがつ",
+                    "simple_reading": "さん",
+                    "meaning": "March"
+                },
+                {
+                    "example_value": "三日",
+                    "example_reading": "みっか",
+                    "simple_reading": "みっ",
+                    "meaning": "third of the month"
+                },
+                {
+                    "example_value": "三角",
+                    "example_reading": "さんかく",
+                    "simple_reading": "さん",
+                    "meaning": "triangle"
+                },
+                {
+                    "example_value": "三つ",
+                    "example_reading": "みっつ",
+                    "simple_reading": "みっ",
+                    "meaning": "three things"
+                },
+                {
+                    "example_value": "三次元",
+                    "example_reading": "さんじげん",
+                    "simple_reading": "さん",
+                    "meaning": "third dimension"
+                }
+            ],
+            "kanji_meaning": "three"
+        },
+        {
+            "id": 4,
+            "kanji": "四",
+            "values": [
+                {
+                    "example_value": "四",
+                    "example_reading": "よん、し",
+                    "simple_reading": "よん",
+                    "meaning": "four"
+                },
+                {
+                    "example_value": "四月",
+                    "example_reading": "しがつ",
+                    "simple_reading": "し",
+                    "meaning": "April"
+                },
+                {
+                    "example_value": "四日",
+                    "example_reading": "よっか",
+                    "simple_reading": "よっ",
+                    "meaning": "fourth of the month"
+                },
+                {
+                    "example_value": "四角",
+                    "example_reading": "しかく",
+                    "simple_reading": "し",
+                    "meaning": "square"
+                },
+                {
+                    "example_value": "四つ",
+                    "example_reading": "よっつ",
+                    "simple_reading": "よっ",
+                    "meaning": "four things"
+                },
+                {
+                    "example_value": "四果",
+                    "example_reading": "しか",
+                    "simple_reading": "し",
+                    "meaning": "four seasons"
+                }
+            ],
+            "kanji_meaning": "four"
+        },
+        {
+            "id": 5,
+            "kanji": "五",
+            "values": [
+                {
+                    "example_value": "五",
+                    "example_reading": "ご",
+                    "simple_reading": "ご",
+                    "meaning": "five"
+                },
+                {
+                    "example_value": "五月",
+                    "example_reading": "ごがつ",
+                    "simple_reading": "ご",
+                    "meaning": "May"
+                },
+                {
+                    "example_value": "五日",
+                    "example_reading": "いつか",
+                    "simple_reading": "いつ",
+                    "meaning": "fifth of the month"
+                },
+                {
+                    "example_value": "五つ",
+                    "example_reading": "いつつ",
+                    "simple_reading": "いつ",
+                    "meaning": "five things"
+                },
+                {
+                    "example_value": "五感",
+                    "example_reading": "ごかん",
+                    "simple_reading": "ご",
+                    "meaning": "five senses"
+                },
+                {
+                    "example_value": "五分",
+                    "example_reading": "ごふん",
+                    "simple_reading": "ご",
+                    "meaning": "five minutes"
+                }
+            ],
+            "kanji_meaning": "five"
+        },
+        {
+            "id": 6,
+            "kanji": "六",
+            "values": [
+                {
+                    "example_value": "六",
+                    "example_reading": "ろく",
+                    "simple_reading": "ろく",
+                    "meaning": "six"
+                },
+                {
+                    "example_value": "六日",
+                    "example_reading": "むいか",
+                    "simple_reading": "むい",
+                    "meaning": "sixth day of the month"
+                },
+                {
+                    "example_value": "六月",
+                    "example_reading": "ろくがつ",
+                    "simple_reading": "ろく",
+                    "meaning": "June"
+                },
+                {
+                    "example_value": "六つ",
+                    "example_reading": "むっつ",
+                    "simple_reading": "むっ",
+                    "meaning": "six things"
+                },
+                {
+                    "example_value": "六十",
+                    "example_reading": "ろくじゅう",
+                    "simple_reading": "ろく",
+                    "meaning": "sixty"
+                },
+                {
+                    "example_value": "六百",
+                    "example_reading": "ろっぴゃく",
+                    "simple_reading": "ろっ",
+                    "meaning": "six hundred"
+                }
+            ],
+            "kanji_meaning": "six"
+        },
+        {
+            "id": 7,
+            "kanji": "七",
+            "values": [
+                {
+                    "example_value": "七",
+                    "example_reading": "なな",
+                    "simple_reading": "なな",
+                    "meaning": "seven"
+                },
+                {
+                    "example_value": "七月",
+                    "example_reading": "しちがつ",
+                    "simple_reading": "しち",
+                    "meaning": "July"
+                },
+                {
+                    "example_value": "なのか",
+                    "example_reading": "なのか",
+                    "simple_reading": "なの",
+                    "meaning": "seventh day of the month"
+                },
+                {
+                    "example_value": "十七",
+                    "example_reading": "じゅうなな",
+                    "simple_reading": "なな",
+                    "meaning": "seventeen"
+                },
+                {
+                    "example_value": "七つ",
+                    "example_reading": "ななつ",
+                    "simple_reading": "なな",
+                    "meaning": "seven things"
+                },
+                {
+                    "example_value": "七時",
+                    "example_reading": "しちじ",
+                    "simple_reading": "しち",
+                    "meaning": "seven o'clock"
+                }
+            ],
+            "kanji_meaning": "seven"
+        },
+        {
+            "id": 8,
+            "kanji": "八",
+            "values": [
+                {
+                    "example_value": "八",
+                    "example_reading": "はち",
+                    "simple_reading": "はち",
+                    "meaning": "eight"
+                },
+                {
+                    "example_value": "八日",
+                    "example_reading": "ようか",
+                    "simple_reading": "よう",
+                    "meaning": "eighth day of the month"
+                },
+                {
+                    "example_value": "八つ",
+                    "example_reading": "やっつ",
+                    "simple_reading": "やっ",
+                    "meaning": "eight things"
+                },
+                {
+                    "example_value": "八百",
+                    "example_reading": "やっぴゃく",
+                    "simple_reading": "やっ",
+                    "meaning": "eight hundred"
+                },
+                {
+                    "example_value": "八時",
+                    "example_reading": "はちじ",
+                    "simple_reading": "はち",
+                    "meaning": "eight o'clock"
+                },
+                {
+                    "example_value": "八月",
+                    "example_reading": "はちがつ",
+                    "simple_reading": "はち",
+                    "meaning": "August"
+                }
+            ],
+            "kanji_meaning": "eight"
+        },
+        {
+            "id": 9,
+            "kanji": "九",
+            "values": [
+                {
+                    "example_value": "九",
+                    "example_reading": "きゅう",
+                    "simple_reading": "きゅう",
+                    "meaning": "nine"
+                },
+                {
+                    "example_value": "九月",
+                    "example_reading": "くがつ",
+                    "simple_reading": "く",
+                    "meaning": "September"
+                },
+                {
+                    "example_value": "九日",
+                    "example_reading": "ここのか",
+                    "simple_reading": "ここの",
+                    "meaning": "nineth day of the month"
+                },
+                {
+                    "example_value": "九時",
+                    "example_reading": "くじ",
+                    "simple_reading": "く",
+                    "meaning": "nine o'clock"
+                },
+                {
+                    "example_value": "九百",
+                    "example_reading": "きゅうひゃく",
+                    "simple_reading": "きゅう",
+                    "meaning": "nine hundred"
+                },
+                {
+                    "example_value": "九十",
+                    "example_reading": "きゅう",
+                    "simple_reading": "きゅう",
+                    "meaning": "ninety"
+                }
+            ],
+            "kanji_meaning": "nine"
+        },
+        {
+            "id": 10,
+            "kanji": "十",
+            "values": [
+                {
+                    "example_value": "十",
+                    "example_reading": "じゅう",
+                    "simple_reading": "じゅう",
+                    "meaning": "ten"
+                },
+                {
+                    "example_value": "十回",
+                    "example_reading": "じゅっかい",
+                    "simple_reading": "じゅっ",
+                    "meaning": "ten times"
+                },
+                {
+                    "example_value": "十日",
+                    "example_reading": "とおか",
+                    "simple_reading": "とお",
+                    "meaning": "tenth day of the month"
+                },
+                {
+                    "example_value": "十月",
+                    "example_reading": "じゅうがつ",
+                    "simple_reading": "じゅう",
+                    "meaning": "October"
+                },
+                {
+                    "example_value": "十",
+                    "example_reading": "とお",
+                    "simple_reading": "とお",
+                    "meaning": "ten things"
+                },
+                {
+                    "example_value": "赤十字",
+                    "example_reading": "せきじゅうじ",
+                    "simple_reading": "じゅう",
+                    "meaning": "the Red Cross"
+                }
+            ],
+            "kanji_meaning": "ten"
+        },
+        {
+            "id": 11,
+            "kanji": "百",
+            "values": [
+                {
+                    "example_value": "百",
+                    "example_reading": "ひゃく",
+                    "simple_reading": "ひゃく",
+                    "meaning": "one hundred"
+                },
+                {
+                    "example_value": "百貨店",
+                    "example_reading": "ひゃっかてん",
+                    "simple_reading": "ひゃっ",
+                    "meaning": "department store"
+                },
+                {
+                    "example_value": "三百",
+                    "example_reading": "さんびゃく",
+                    "simple_reading": "びゃく",
+                    "meaning": "three hundred"
+                },
+                {
+                    "example_value": "六百",
+                    "example_reading": "ろっぴゃく",
+                    "simple_reading": "ぴゃく",
+                    "meaning": "six hundred"
+                },
+                {
+                    "example_value": "百年",
+                    "example_reading": "ひゃくねん",
+                    "simple_reading": "ひゃく",
+                    "meaning": "one hundred years"
+                },
+                {
+                    "example_value": "百個",
+                    "example_reading": "ひゃっこ",
+                    "simple_reading": "ひゃっ",
+                    "meaning": "one hundred things"
+                }
+            ],
+            "kanji_meaning": "hundred"
+        },
+        {
+            "id": 12,
+            "kanji": "千",
+            "values": [
+                {
+                    "example_value": "千",
+                    "example_reading": "せん",
+                    "simple_reading": "せん",
+                    "meaning": "a thousand"
+                },
+                {
+                    "example_value": "千年",
+                    "example_reading": "せんねん",
+                    "simple_reading": "せん",
+                    "meaning": "a thousand years"
+                },
+                {
+                    "example_value": "千円",
+                    "example_reading": "せんえん",
+                    "simple_reading": "せん",
+                    "meaning": "a thousand yen"
+                },
+                {
+                    "example_value": "千切る",
+                    "example_reading": "ちぎる",
+                    "simple_reading": "ち",
+                    "meaning": "to tear into pieces"
+                },
+                {
+                    "example_value": "千葉県",
+                    "example_reading": "ちばけん",
+                    "simple_reading": "ち",
+                    "meaning": "Chiba prefecture"
+                },
+                {
+                    "example_value": "三千",
+                    "example_reading": "さんぜん",
+                    "simple_reading": "せん",
+                    "meaning": "three thousand"
+                }
+            ],
+            "kanji_meaning": "two"
+        },
+        {
+            "id": 13,
+            "kanji": "日",
+            "values": [
+                {
+                    "example_value": "日",
+                    "example_reading": "ひ",
+                    "simple_reading": "ひ",
+                    "meaning": "day"
+                },
+                {
+                    "example_value": "日曜日",
+                    "example_reading": "にちようび",
+                    "simple_reading": "にち",
+                    "meaning": "Sunday"
+                },
+                {
+                    "example_value": "二十日",
+                    "example_reading": "はつか",
+                    "simple_reading": "か",
+                    "meaning": "twentyth day of the month"
+                },
+                {
+                    "example_value": "休日",
+                    "example_reading": "きゅうじつ",
+                    "simple_reading": "じつ",
+                    "meaning": "day off, holiday"
+                },
+                {
+                    "example_value": "誕生日",
+                    "example_reading": "たんじょうび",
+                    "simple_reading": "び",
+                    "meaning": "birthday"
+                }
+            ],
+            "kanji_meaning": "day"
+        },
+        {
+            "id": 14,
+            "kanji": "月",
+            "values": [
+                {
+                    "example_value": "月",
+                    "example_reading": "つき",
+                    "simple_reading": "つき",
+                    "meaning": "month"
+                },
+                {
+                    "example_value": "今月",
+                    "example_reading": "こんげつ",
+                    "simple_reading": "げつ",
+                    "meaning": "this month"
+                },
+                {
+                    "example_value": "正月",
+                    "example_reading": "しょうがつ",
+                    "simple_reading": "がつ",
+                    "meaning": "new year"
+                },
+                {
+                    "example_value": "月見",
+                    "example_reading": "つきみ",
+                    "simple_reading": "つき",
+                    "meaning": "moon viewing"
+                },
+                {
+                    "example_value": "月曜日",
+                    "example_reading": "げつようび",
+                    "simple_reading": "げつ",
+                    "meaning": "Monday"
+                },
+                {
+                    "example_value": "月末",
+                    "example_reading": "げつまつ",
+                    "simple_reading": "げつ",
+                    "meaning": "end of month"
+                }
+            ],
+            "kanji_meaning": "moon, month"
+        },
+        {
+            "id": 15,
+            "kanji": "火",
+            "values": [
+                {
+                    "example_value": "火",
+                    "example_reading": "ひ",
+                    "simple_reading": "ひ",
+                    "meaning": "fire"
+                },
+                {
+                    "example_value": "火曜日",
+                    "example_reading": "かようび",
+                    "simple_reading": "か",
+                    "meaning": "Tuesday"
+                },
+                {
+                    "example_value": "花火",
+                    "example_reading": "はなび",
+                    "simple_reading": "び",
+                    "meaning": "fireworks"
+                },
+                {
+                    "example_value": "火事",
+                    "example_reading": "かじ",
+                    "simple_reading": "か",
+                    "meaning": "a fire"
+                },
+                {
+                    "example_value": "火星",
+                    "example_reading": "かせい",
+                    "simple_reading": "か",
+                    "meaning": "a mark"
+                },
+                {
+                    "example_value": "火力",
+                    "example_reading": "かりょく",
+                    "simple_reading": "か",
+                    "meaning": "thermal power"
+                }
+            ],
+            "kanji_meaning": "fire"
         }
     ]
 }
